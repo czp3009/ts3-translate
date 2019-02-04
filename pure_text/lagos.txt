@@ -1,0 +1,3308 @@
+About
+Version:
+Qt Version:
+For support please visit our <a href="http://forum.teamspeak.com">forum</a>
+PLACEHOLDER
+Copyright
+License
+About %1
+Copy version to clipboard
+Create your myTeamSpeak Account
+Verify Password:
+Email Address:
+Password:
+Username:
+Stay logged in on this computer
+Teamspeak Account Features:
+Synchronization
+Continue without logging in
+Use existing account
+Create
+Login to your myTeamSpeak Account
+Email Address:
+Password:
+Stay logged in on this computer
+Teamspeak Account Features:
+Synchronization
+Continue without logging in
+Create Account
+Login
+Save Recovery Key
+This is your recovery key used for the encryption of your data. It is required to recover your data if you ever forget your account password.
+Store this key in a safe place (external hard drive, USB key, printed hardcopy, etc) and keep it secret.
+Save recovery key to file
+Save to file
+Copy recovery key to clipboard
+Copy to clipboard
+Next
+myTeamSpeak Account
+Email:
+Password:
+Stay logged in on this computer
+Create Account
+Login
+Account Actions:
+myTeamSpeak Account Features:
+Automatic (Synchronize all items by default)
+Synchronization
+Manual (Define which items get synchronized)
+Badges
+Integrations
+myTeamSpeak Account Verification
+A verification email has been sent to user@email.com.  Check your email and follow the instructions provided to finish creating your TeamSpeak Account. After you verified your account, press the Login button. 
+Account is not verified
+Verify later
+Resend Verification
+Back
+Login
+Error
+Login Failed
+Invalid credentials
+Ok
+Application
+General Application Options
+System Default
+English
+To help make TeamSpeak a better program, we would like to collect some statistics about your operating system and hardware. The data is sent anonymously.
+The language will change after restarting TeamSpeak. Do you want to restart now?
+Information
+All confirmations were reset.
+Beta channel
+You are switching to the beta update channel. The beta releases are meant for testing and may be unstable.
+Do not show again
+Select Avatar
+Error
+Invalid image selected. Failed to set avatar.
+Selected animated avatar is too large. The maximum allowed size is %1x%2.
+Selected avatar file is too large. The maximum allowed file size is %1 kB.
+Failed to delete avatar on server.
+Save
+Save Preset
+Preset name:
+This will overwrite your preset %1. Do you wish to continue?
+Setup Badges
+Active badges
+Available badges
+Drag available badges from the list below into one of the slots.<br> Move badges in the slots to change the order in which they appear.<br> To remove a badge drag it from the slot to the list below.
+&IP:
+&Name:
+&Interpret IP/Name as:
+Wildcard ipv4
+Wildcard ipv6
+Fixed String
+Regular Expression
+&Unique ID:
+Reason:
+Preset:
+Save preset
+&Duration:
+seconds
+minutes
+hours
+days
+permanent
+Set duration to maximum value
+None
+Save Preset
+Preset name:
+Save duration
+This will overwrite your preset %1. Do you wish to continue?
+Add Ban
+Edit Ban
+Ban Client
+Name:
+Reason:
+Preset:
+Save preset
+&Duration:
+seconds
+minutes
+hours
+days
+permanent
+Set duration to maximum value
+Add new ban<br>(Ctrl+N)
+Add
+Remove selected bans<br>(Delete)
+Remove
+Edit selected ban<br>(Return)
+Edit
+Search bans by text<br>(Ctrl+F)
+Reload
+Show only bans created by you
+Show only own bans
+Mark bans created by you as bold
+Highlight own bans
+Name/IP/UID
+Name
+IP
+UID
+Reason
+Creator
+Created
+Expires
+Enforced
+infinite
+Last name
+Your ban was successfully added.
+Insufficient permissions...
+You don't have the permission to edit ban entries from other users. Inserting a modified copy instead.
+Ban List - %1
+Ban List
+Delete bans
+Do you really want to delete the selected ban(s)?
+You have insufficient permissions to view the ban list.
+Bookmarks
+myTeamSpeak Bookmarks
+Synchronized Bookmarks
+Local Bookmarks
+Show ServerQuery Clients
+Automatically connect to this server when starting TeamSpeak
+Connect on Startup
+Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services
+Send myTeamSpeak ID
+Server Nickname or &Address:
+Nickname, Hostname or IP of the TeamSpeak 3 server, for example: voice.teamspeak.com:9987
+Sound Pack:
+&Identity:
+Identity to use when connecting to the server
+Hotkey Profile:
+Server &Password:
+Server password (optional)
+Join this channel on login (optional)
+Make current channel the default channel
+&Default Channel:
+&Playback Profile:
+Playback profile used for this server
+Default Channel &Password:
+Password of default channel (optional)
+&Nickname:
+Your requested nickname
+Bookmark Name:
+Custom description for this server
+&Phonetic Nickname:
+Your nickname written as phonemes (optional)
+&Capture Profile:
+Capture profile used for this server
+Add Bookmark
+Add Folder
+Remove
+Clear Settings
+Clear Logs
+Clear Cache
+Clear Chats
+Clear Crashdumps
+Cache and chats of currently connected servers will not be cleared.
+Capture
+Configure the Capture Sound System
+<p><strong>Push-To-Talk</strong> will only enable your microphone when your assigned hotkey is pressed and deactivate the microphone when your assigned hotkey is released. Click on the &quot;No Hotkey Assigned&quot; button if you are configuring Push-To-Talk for the first time.</p>
+<p>With <strong>Continuous Transmission</strong> voice data is constantly transmitted. It is recommended to use Push-To-Talk or Voice Activation Detection instead to lower bandwidth usage.</p>
+<p><strong>Voice Activation Detection</strong> automatically detects your voice the moment you begin speaking (as well as when you stop speaking) and will enable or disable your microphone accordingly. This facilitates hands-free communication through TeamSpeak.</p><p>This method is not recommended in noisy environments since background noise may mistakenly be detected and transmitted to other users.</p>
+Voice Test is still active...
+<p>Switching the options page will abort the voice test.</p><p>Do you want to continue and stop your voice test?</p>
+<p>Switching the profile will abort the voice test.</p><p>Do you want to continue and stop your voice test?</p>
+Default
+Automatically use best mode
+Custom
+Delete Hotkeys...
+Capture Profile <strong>"%1"</strong> has been deleted.<p>Do you want to delete every Hotkey assigned to this profile as well?</p>
+Change Email
+Current &Password:
+New &Email:
+Change Password
+&New Password:
+Current &Password:
+&Verify New Password:
+Change Username
+New &Username:
+Changelog
+Change Master Password
+A Master Password is used to protect sensitive information like your identities and passwords. If you create a Master Password you will be asked to enter it every time TeamSpeak starts up.
+If you forget your Master Password your sensitive information can never be retrieved. Please make sure to remember your Master Password carefully! Your password must be at least 6 characters long.
+Current password:
+Enter new password:
+Re-enter password:
+Remove Master Password
+Set Master Password
+Channel Description
+Bold
+Italic
+Underline
+Color
+Press Button to "Preview" the changes in channel info.
+Channel Description
+&Preview
+Channel Description
+Toggle bbCode and WYSIWYG display
+Bold
+Italic
+Underline
+Channel Groups of Client
+Reload
+Remove all Channel Groups
+Channel
+Channel Group
+Reload
+Add
+Channel Group: %1
+Unknown
+Chat input
+Enter Chat Message...
+Paste && Send
+Format
+Bold
+Italic
+Underline
+Color
+Chat
+Configure the Chat Tabs
+Clear
+Show Emoticons
+Show Line Markers
+*** Chat begins %1 %2
+*** Log begins %1 %2
+Invalid channel
+Unknown
+*** Chat begins
+<b>*** Yesterday</b>
+<b>*** Today</b>
+<b>*** Tomorrow %1</b>
+End of chat history
+Chat output tabs
+Clear
+Close
+*** You are now talking in channel: %1
+Enter Chat Message...
+%1 rejoined chat.
+Chat partner disconnected out of view.
+Close Private Tabs
+Close Private Tabs but this
+Your chat partner has disconnected.
+Too short
+Choose Your Nickname
+This is your identifying name which is displayed to other users.
+Choose your nickname:
+All Clients
+Clear search field
+&Search by
+Nickname
+Unique Identifier
+More
+Last Nickname
+Created
+Last
+Total
+Last IP
+Description
+All clients already received
+No clients found
+Client deleted
+This client is currently online and cannot be deleted.
+Copy Nickname to clipboard
+Copy Unique ID to clipboard
+Copy Last IP to clipboard
+Ban client
+Delete avatar
+Delete client(s)
+Confirmation
+Permanently delete <strong>all selected clients</strong>?<br>This operation cannot be undone.
+Permanently delete <strong>%1</strong>?<br>This operation cannot be undone.
+At least three characters required
+Invalid search pattern
+Client Log
+&Critical
+&Errors
+&Warnings
+&Info
+&Debug
+&Highlighting
+&Exclude filter
+&Search:
+Search text in log. Press Enter to search next location.
+&Filter:
+Only show lines matching filter text. Press Enter to apply filter.
+&Case sensitive
+Previous
+Next
+Mark
+Resolve Collisions
+Hide passwords
+Try to apply decision to all collisions
+Complaints List
+Remove
+Reload
+Target Nickname
+From Nickname
+Reason
+Client banned: %1
+has %n complaint(s)
+Ban Client
+Remove selected...
+Do you really want to remove all complaints of this user?
+Do you really want to remove the selected complain(s)?
+None
+Default
+Connection Info
+retrieving data
+Idle time
+Client address
+Client name
+Connection time
+Copy client address to clipboard
+Ping
+Quota
+Downloaded this month:
+N/A
+Available download quota:
+Unlimited
+Uploaded this month:
+Available upload quota:
+Remaining download this month:
+Remaining upload this month:
+Retrieving
+Packet loss
+Packets transferred
+Bytes transferred
+Bandwidth last second
+Bandwidth last minute
+File transfer bandwidth
+Total
+In
+Out
+Exceeded
+Calculating
+%1 ms %2 %3
+Hidden
+%1 %
+%1/s
+Speech
+Keep Alive
+Control
+Unknown
+Connection Info - %1
+Create Channel
+&Name:
+&Icon:
+Set channel icon.
+&Password:
+Optional password for this channel.
+&Topic:
+Optional topic for this channel, displayed in the info area on the right.
+&Description:
+Tear off description editor
+Standard
+Channel &Type
+Channel will be deleted when the last user left.
+Temporary
+Channel exists until server is restarted.
+Semi-Permanent
+Channel will exist until manually deleted.
+Permanent
+The default channel is the place where new clients join on login. There can be only one default channel for the whole server.
+&Default Channel
+Sort This Channel After:
+Channel will be sorted below this channel.
+Moderation
+&Needed Talk Power:
+Talk power required to speak in this channel.
+Audio
+Presets
+Voice Mobile
+Voice Desktop
+Music
+Custom
+Custom Settings
+&Codec:
+Quality:
+Codecs
+Bandwidth usage:
+Permissions
+Regular Needed Powers
+&Join:
+&Subscribe:
+&Desc. View:
+&Modify:
+&Delete:
+File Transfer Needed Powers
+&Browse:
+&Upload:
+&Download:
+&Rename:
+&Dir. Create:
+Advanced
+Other Settings
+&Phonetic Name:
+&Delete delay:
+<p>Delay in seconds after temporary channels are deleted after the last user left the channel.</p>
+Set delete delay to maximum value
+Set phonetic nickname used for this channel by text-to-speech.
+Voice data in this channel will be encrypted.
+Voice Data encrypted
+Max &Users
+Unlimited number of clients can join this channel.
+Unlimited
+Limit number of clients in this channel.
+Limited
+&Family Max Users
+Inherit the client limit by parent channel.
+Inherited
+The channel subtree can be joined by unlimited number of clients.
+Limit the number of clients in the channel subtree.
+Edit Channel: %1
+Create Sub-Channel
+Make another channel default if you wish to remove default from this channel.
+Edit Icon
+Remove Icon
+<p>A parent channel has a delete delay lower than this channel (%n second(s)).</p>
+<p>Setting a subchannel with a higher delete delay than a parent channel makes no sense.</p><p>Should TeamSpeak automatically adjust the delete delay of this channel to be the same as the lowest parent delay? <b>Yes is recommended.</b></p>
+Question
+You have been forced to enter a password.
+Please enter password...
+Failed to request channel permissions.
+Permissions applied
+Error applying permissions.
+No permission to view channel permissions.
+Password for this channel.
+Syntax: "<strong>[?Spacer#]Text</strong>"
+Where "?" stands for an alignment (r=right, c=center, l=left),
+"*" will repeat the text to fill the whole line.
+Change "#" to get a unique channel name.
+Use one of the three-character-blocks as text for a special spacer: "---", "...", "-.-", "___", "-.."
+Example:
+[lSpacer0] a left aligned text
+[cSpacer1] a centered text
+[rSpacer2] a right aligned text
+Name of this channel displayed in the tree.
+The profile name "All" is prohibited.
+The profile name "%1" already exists.
+Hide Item
+Remove Item
+Customize Toolbar
+Reset to Defaults
+Available actions:
+Selected actions:
+Separator
+Connection
+Status
+Dialogs
+Recording
+Permissions
+Channel
+Client
+Server
+Misc
+Please Confirm
+Do you really want to reset the toolbar?
+Search...
+Zero and all negative values cannot cause clipping and distortion, and are preferred for optimal audio quality.
+Values greater than zero and less than +6 dB might cause moderate clipping and distortion, but should still be within acceptable bounds.
+Values greater than +6 dB will cause clipping and distortion that will negatively affect your audio quality. It is advised to chose lower values.
+Client Debug Log
+Downloads
+Configure Downloads
+Select download folder
+Apply permissions
+<p>This group contains additional permissions which have not been set by this dialog.</p><p>Do you want to keep or remove these permissions?</p>
+Keep
+Remove
+&More info
+&Less info
+This group will be set as:
+Icon:
+Set group icon.
+Group options
+Show name in tree:
+Do not show
+Show before name
+Show behind name
+Permissions of this group cannot be restricted by channelgroups or channels
+Administrate the Server (edit Settings, use reserved slots)
+Client can edit servername, welcomemessage, password etc.
+Client can edit server host settings (maxclients, filetransfer quotas etc.)
+Client can use reserved slots
+Client can view server informations
+Manage Groups (create, delete, modify)
+Client can create and delete Groups
+Client can change channel, client and group icons
+Client can view permissions
+Assign and Remove Member (add user, manage token)
+Client can add user to
+Client can manage Privilege Keys
+Administrate Clients (move, kick, ban)
+Client can move
+Client can kick from channel
+Client can ban
+Client can change client descriptions
+Client can grant talk power
+Client can kick from server
+Manage Channels (create, edit, delete)
+Client can create channeltype
+Client can delete channeltype
+Client can edit channels
+Basics (send messages, set avatar, subscribe channel)
+Client can send messages to
+Client can set avatar
+Client can use channel commander
+Client can subscribe channels
+Client can assign priority speaker
+Filetransfer (manage, upload, download)
+Client can manage files
+Client can upload files
+Client can download files
+Switch to advanced permissions display
+Discard
+Apply
+No permissions to view this group.
+Edit Icon
+Remove Icon
+Unknown
+Permissions reverted
+Permissions applied
+Forbidden
+<p>You are about to remove grant permissions from a Server Admin group<br>and are a member of this group.</p><p>As this might prevent you from being able to add this permission again,<br>this operation is prohibited.</p>
+Aborted
+Applying permissions...
+Not all permissions could be applied
+Icon applied
+Icon removed
+Icon could not be applied
+Icon could not be removed
+Information
+The TeamSpeak Hotkey System is probably not working properly.
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"> <html><head><meta name="qrichtext" content="1" /><style type="text/css"> p, li { white-space: pre-wrap; } </style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"> <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"></p></body></html>
+Don't show again
+Enumerating Input Devices
+Working
+<p><strong>Enumerating Input devices is taking longer than it should.</strong></p>This might be a hardware problem with one of the input devices or buggy drivers.<BR>Find which device is causing the issue by selectively unplugging Input Devices<BR>(Keyboard,Mouse, Joystick...) and starting TeamSpeak until this dialog does no<BR>longer appear. Then try and find updated drivers for the device causing the issues.<BR>
+&Continue in Background
+Ok
+Complete
+Search...
+External link
+I know the risk, do not show again
+Open link
+Abort
+File Browser
+Go up a directory (Alt+Up)
+Go up to root directory (Home)
+Filter files (Ctrl+F)
+Display files as icons
+Detailed view
+Clear and hide filter
+&Search:
+Download Folder:
+Open download folder
+Change download folder
+Download
+Download selected files
+Download All
+Delete
+Delete selected files (Del)
+Create Folder
+Upload Files
+Upload files
+Open
+Rename
+Refresh
+Refresh current directory
+Copy URL
+Directory
+File
+%n directory(s)
+%n file(s)
+ and 
+Do you really want to delete this file(s)?
+Do you really want to delete the folder(s)? All files inside the deleted folder(s) will be lost.
+Question
+File Browser - %1 - %2
+Name
+Size
+Type
+Last Changed
+Select download folder
+Folder name:
+Upload file contains bad character, skipping upload "%1"
+Progress
+Description
+Open
+Open Folder
+Remove
+Delete
+Cancel
+Halt
+Retry
+Resume
+waiting
+"%1" - waiting
+Queue "%1" %2
+- waiting
+canceled
+Queue %1
+Upload finished: %1
+Download finished: %1
+skipped
+finished in %1 (average %2/s)
+finished
+error
+failed: %1
+paused
+uploading
+downloading
+/%1 %2 remaining
+blocked
+Active filetransfer
+Found %n filetransfer(s) in progess which will be aborted if you press Ok.
+Do you want to proceed?
+Confirmation
+Do you really want to delete the file '%1' from your computer?
+Do you really want to delete the selected files from your computer?
+Upload Limit - Slots:
+KiB/s
+Speed: 
+Download Limit - Slots:
+Clean Up
+Close
+File Transfers
+Remove all transfers which are not running
+Upload limited to %n slot(s)
+and unlimited speed.
+and max speed of %1 KiB/s.
+Download limited to %n slot(s)
+/s
+Down: %1
+%1% download
+Up: %1
+%1% upload
+Contact Manager Default Settings
+Configure default settings when adding a client to the Contact Manager
+Ignore and Hide Defaults
+Friends
+Blocked
+Neutral
+Mute
+Automaticly mute this person
+Ignore server/channel chat
+Ignore messages this person sends to the server or in channels
+Ignore private chat
+Ignore private chat by this person
+Ignore Pokes
+Ignore pokes this person sends you
+Hide avatar
+Do not download this persons avatar
+Hide away message
+Ignore this persons away messages
+Deny whisper
+Nickname Display Defaults
+Custom name and nickname
+Show both custom name and the nickname
+Only custom name
+Show only custom name
+Only nickname
+Show only the nickname
+Now
+Never
+%1 on %2
+Friend
+Foe
+Neutral
+Custom name and nickname
+Only custom name
+Only nickname
+%1 on %2 (%3)
+Contacts
+Drag & Drop users here
+Custom &Nickname:
+Enter custom nickname
+Apply nickname change
+General
+Mark as neutral
+Neutral
+Mark as blocked
+Blocked
+Mark as friend
+Friend
+&Phonetic Nickname:
+Client nickname written as phonemes (optional)
+Display
+Show custom name and nickname
+Custom name and nickname
+Show only custom name
+Only custom name
+Show nickname only
+Only nickname
+Ignore
+Automaticly mute this person
+Mute
+Ignore messages this person sends to the server or in channels
+Ignore server/channel chat
+Ignore private chat by this person
+Ignore private chat
+Ignore pokes this person sends you
+Ignore Pokes
+Do not download this persons avatar
+Hide avatar
+Ignore this persons away messages
+Hide away message
+Whisper
+This contact is allowed to whisper to you unless whispering is globally denied for everyone.
+Allow whisper
+This contact is always denied to whisper to you.
+Deny whisper
+Set default display, ignore and hide options
+Set Defaults
+Name
+Last Seen
+Remove
+Apply Defaults
+Copy Unique ID to Clipboard
+<none>
+Online:
+Confirmation
+Do you really want to delete contact %1?
+Press "[SHIFT + DEL]" to delete without confirmation.
+Design
+Configure the Design of TeamSpeak
+Get more stylesheets & icons
+System default
+Show icon in menu bar
+TeamSpeak will reset to the default style on the next restart.
+TeamSpeak will use the selected icon pack on the next restart. Do you want to restart now?
+Upload contains bad character, skipping upload "%1"
+Directories to go: %1
+Directories: %1
+Files: %1
+Data: %1
+Gathering files...
+Ready
+Cancelled...
+Start
+Start (%1)
+Gather Upload Information
+Please wait...
+Directories to go: 0
+Directories: 0
+Files: 0
+Data: 0
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"> <html><head><meta name="qrichtext" content="1" /><style type="text/css"> p, li { white-space: pre-wrap; } </style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"> <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:8pt; color:#aa0000;">You are about to transfer a large amount of files!</span></p> <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:8pt; color:#aa0000;">We suggest to combine the files using a compressor...</span></p></body></html>
+Autostart when ready
+Cancel
+Start
+Add Server Group
+Add Channel Group
+Enter Server Group name
+Enter Channel Group name
+Create group using this type:
+Create group using this template:
+Regular group
+Template group
+ServerQuery group
+Default
+Hotkey Setup Dialog
+Hotkey
+Action triggers when the key is released
+On key release
+Press this button to start recording the hotkey
+Set hotkey
+Action triggers when the key is pressed down
+On key down
+When enabled the key will not be submitted to other applications.
+Discard
+Active tab
+Keep dialog open
+Action
+Connect to Server
+Disconnect from Server
+Select Server Tab
+Sounds
+Master Volume
+Switch to Channel
+Plugins
+Capture Profile
+Playback Profile
+Hotkey Profile
+Microphone
+Speaker
+Away Status
+Channel Commander
+Push-to-Talk
+Whisper
+Recording
+3D Sound
+Talk Power
+----- Server -----
+Connect to Server on Current Tab
+Connect to Server in a New Tab
+Disconnect from Current Server
+Disconnect from All Servers
+Activate Microphone (current tab)
+Mute Microphone
+Unmute Microphone
+Toggle Microphone Mute
+Disable Local Mic Mute
+Enable Local Mic Mute
+Toggle Local Mic Mute
+Mute Speaker
+Unmute Speaker
+Toggle Speaker Mute
+Set Away
+Set Online
+Toggle Away Status
+Toggle Away Status with Message
+Activate Channel Commander
+Deactivate Channel Commander
+Toggle Channel Commander
+----- Self -----
+Activate Capture Profile
+Deactivate Capture Profile
+Toggle Capture Profile
+Activate Playback Profile
+Deactivate Playback Profile
+Toggle Playback Profile
+Activate Hotkey Profile
+Deactivate Hotkey Profile
+Activate Push-to-Talk
+Deactivate Push-to-Talk
+Toggle Push-to-Talk
+Switch to Next Channel (Global)
+Switch to Previous Channel (Global)
+Switch to Last Visited Channel
+Switch to Next Channel (Channel Family)
+Switch to Previous Channel (Channel Family)
+Switch to Next Channel (Same Level)
+Switch to Previous Channel (Same Level)
+Select Next Server Tab
+Select Previous Server Tab
+Activate Soundpack
+Mute Sounds
+Unmute Sounds
+Toggle Sound Mute
+Activate Push-To-Whisper
+Deactivate Push-To-Whisper
+Activate Push-To-Reply to a Whisper
+Deactivate Push-To-Reply to a Whisper
+Activate Whisperlist
+Deactivate Whisperlist
+Activate Reply to a Whisper
+Deactivate Reply to a Whisper
+Activate Block Incoming Whispers
+Deactivate Block Incoming Whispers
+Toggle Block Incoming Whispers
+Start Recording
+Stop Recording
+Increase Master Volume
+Decrease Master Volume
+Activate Plugin
+Deactivate Plugin
+Toggle Plugin
+Run Plugin Command
+Plugin Hotkey
+Stylesheet Helper
+Activate 3D Sound
+Deactivate 3D Sound
+Toggle 3D Sound
+Change Nickname
+----- Misc -----
+Grant Next User Talk Power
+Request Talk Power
+Revoke All And Grant Next User Talk Power
+Open Filebrowser on Channel
+Disable Autoconnect
+Reload Skin
+Bring Client to Front
+Send Client to Background
+&OK
+&Cancel
+Ctrl+F
+for all Capture Profiles
+on Current Server
+Current Server
+on 
+Hide Advanced Actions
+Show Advanced Actions
+If you want to add more hotkeys, you might want this dialog to keep open.
+&Add
+&Close
+Would you like to add %1 for "%2" as well?
+an "<strong>Up-Key</strong>"
+a "<strong>Down-Key</strong>"
+<strong>deactivation</strong>
+<strong>activation</strong>
+Add another "%1" key automatically?
+A hotkey with this configuration already exists.
+Press hotkey combination. (ESC to cancel)
+<p style='white-space:nowrap'><font color='red'>Warning: Discarding "On key release" can lead to unpredicted system behaviour!</font></p>
+<strong>Hint:</strong> If you deactivate a Hotkey Profile, all hotkeys probably become unavailable!
+Expand All
+Collapse All
+Expand Group
+Collapse Group
+Expand to depth
+Inserting Hotkey...
+Deleting Hotkey...
+inserted
+deleted
+Please choose where the Hotkey should be %1.
+Note that existing Hotkeys will be overwritten.
+Warning, the Hotkey [ %1 ] already used.
+Please choose another Hotkey.
+All
+Insert
+Delete
+%1 Hotkey in Hotkey Profile
+Press hotkey combination. (ESC to cancel or to clear the hotkey)
+No Hotkey Assigned
+Push-To-Whisper
+Push-To-Whisper-Reply
+Push-to-Talk
+Edit Hotkey
+Delete Hotkey
+Profile Details
+Hotkey
+Action
+Add hotkey
+&Add
+Remove selected hotkey
+&Remove
+Edit selected hotkey
+&Edit
+Hotkey System
+Hotkeys
+Configure Hotkeys
+Default
+Keyboard & Mouse Only
+(Keyboard & Mouse only)
+(Default only)
+Switch to Next Channel (Global)
+Invalid or broken event
+Push-To-Talk (%1)
+Push-To-Talk (All)
+Invalid or broken action
+ on %1
+(Down)
+(Up)
+Information
+To be able to use hotkeys on Mac, you need to open the System preferences "Security & Privacy" page, select tab "Privacy", select "Accessibility" and check "TeamSpeak 3 Client". If it does not exist in the list, drag&drop it from your Applications folder.
+To be able to use hotkeys on Mac, you need to open the System preferences "Universal Access" page and make sure "Enable access for assistive devices" is turned on.
+Delete Hotkeys...
+Hotkey Profile <strong>"%1"</strong> has been deleted.<p>Do you want to delete every Hotkey assigned to this profile as well?</p>
+Confirmation
+Your selection contains at least one autogenerated pair. Proceeding will also delete the combined key as well!  Do you want to proceed?
+Icons
+Remote
+Upload
+Delete
+Local
+Icon Pack:
+Reload
+default
+Error
+Invalid image selected. Failed to upload icon.
+Selected icon file is too large. The maximum allowed file size is %1 kB.
+Select one or more images to upload
+Identities[*]
+myTeamSpeak Identities
+Synchronized Identities
+Local Identities
+&Identity Name:
+&Nickname:
+&Phonetic Nickname:
+Your nickname written as phonemes (optional)
+&Unique ID:
+Security Level:
+1
+Improve
+Add Identity
+Create
+Remove Identity
+Remove
+Set Default Identity
+Default
+Identity Security Level
+<span style="color:red;">Insufficient identity security level for this server.<br> You need to improve your identity security level.</span>
+Identity:
+Current Security Level:
+&Requested Security Level:
+Elapsed Time:
+00:00
+Total Time Ballpark Figure:
+Unknown
+<p>Press <strong>Start</strong> to improve to the selected security level.</p>
+Close
+Start
+Failed
+<p>Improving security level. This can take a long time.</p>
+<p>Finished improving security level.</p>
+Infinite
+Server Tabs
+serverinfo.tpl
+Version
+Server Icon
+Current Clients
+Total Client Connections
+Current Channels
+Uptime
+Address
+Nicknames
+License
+Refresh
+channelinfo.tpl
+Channel Topic
+Moderated
+Yes
+Unlimited
+Inherited
+Audio Codec
+Channel Icon
+Properties
+Subscribed
+Not subscribed
+Unencrypted
+Encrypted
+Description
+Subscription Status
+Needed Talk Power
+Audio Quality
+Bitrate
+Audio Transmission
+Delete Timer
+clientinfo.tpl
+%1 %2 on %3
+%1 on %2
+Total Connections
+Volume Modifier
+First Connected
+Last Connected
+Online since
+Client requested talk power at <strong>%1</strong>.
+[Inherited from: %1]
+Server Groups
+Channel Group
+<avatar ignored>
+Away
+<away message ignored>
+Speakers/Headphones Disabled
+Speakers/Headphones Muted
+Microphone Disabled
+Microphone Muted
+Local Muted
+Invalid License
+No License
+Host Provider License
+LAN License
+Non-Profit License
+Activation License
+Unknown
+Speex Narrowband
+Speex Wideband
+Speex Ultra-Wideband
+CELT Mono
+Opus Voice
+Opus Music
+Unknown Codec
+Refresh available every 5 seconds
+Invite Buddy
+Invitation Type:
+Insert my current:
+Channel
+Server
+Add Privilege Key
+Copy to clipboard
+ts3server link
+http redirection
+html code
+The current channel has a password which is not known by your client.<br>Please add the password manually.
+Invitation
+The server password stored in your bookmark is not the same as the real server password.
+Failed to validate server password
+License agreement
+Open in Webbrowser
+I accept
+I do not accept
+Close
+Error
+Failed to download license.
+Toolbar
+Default
+Toggle Subscribe Mode for this server Current: %1
+Subscribe all
+Subscribe selected
+%1 on %2
+Transfer Completed
+Away on this server
+<p style="color:red;">Your message has not been sent. Message limit has been exceeded.</p>
+<p style="color:blue;">Built-in commands: /close, /clear, /exit<br>Plugin commands: /&lt;plugin-command-keyword&gt; &lt;plugin-command&gt;</p>
+<span style="color:red;">Invalid command or missing parameters: %1</span>
+Mute Speakers/Headphones on all servers
+Unmute Speakers/Headphones on all servers
+Mute Microphone
+Unmute Microphone
+Mute Speakers/Headphones
+Unmute Speakers/Headphones
+Information
+<p>This is the last TeamSpeak version available for Windows Vista.</p><p>To upgrade TeamSpeak and take advantage of the latest features and bug fixes, please update your operating system to Windows 7 or newer.</p>
+Use Privilege Key
+<p>This is a newly configured server for which administrator privileges have not yet been claimed.<br>Please enter the Privilege Key that was automatically generated when this server was created<br>to gain administrator privileges.</p><p>Enter Privilege Key:</p>
+Enter Privilege Key:
+Select File
+Wave files (*.wav)
+Transfer "%1" reports: (%2)
+Question
+<p>You have no telephony accounts configured yet.</p><p>Open telephony options to setup a new account?</p>
+/s
+&About TeamSpeak 3
+Show application and copyright information
+&Connect
+Ctrl+S
+Connect to a TeamSpeak server
+&Disconnect from Current
+Ctrl+D
+Disconnect from the currently active server tab
+&Disconnect from All
+Disconnect from all TeamSpeak Servers
+&Server List
+Show list of known TeamSpeak 3 servers
+Ctrl+Shift+S
+&Quit
+Ctrl+Q
+Exit TeamSpeak
+&Toggle Away Status
+Toggle the Away status
+&Set Away
+Set your status to Away
+&Set Globally Away
+Set you status Globally Away
+&Set Away Status
+&Set Globally Away Status
+&Online
+Set status to Online on the active server
+&Online on all servers
+Set your status to online on the all server
+(Un)Mute the Microphone on the current server
+&Activate Microphone
+Activate the Microphone
+(Un)Mute the Speakers/Headphones on the current server
+(Un)Mute the Speakers/Headphones on all servers
+&Options
+Open options dialog
+Alt+P
+Start &Overwolf
+Start Overwolf Overlay
+Collected &URLs
+Display collected internet locations
+Ctrl+U
+File &Transfers
+Display file transfers
+Ctrl+T
+Contacts
+Manage contacts
+Ctrl+Shift+O
+Visit TeamSpeak &Webpage
+Visit the TeamSpeak webpage at www.TeamSpeak.com
+&myTeamSpeak Account
+Visit the myTeamSpeak account webpage
+Visit TeamSpeak &Support Forum
+Visit the TeamSpeak support forum at forum.TeamSpeak.com
+&Rent own TeamSpeak Server
+Find out where to get your own TeamSpeak Server
+Client &Log
+Display client log
+Ctrl+L
+&Server Log
+Display server log messages
+Ctrl+Shift+L
+&Server Groups
+Manage server group permissions
+Ctrl+F1
+&Client Permissions
+Manage client permissions
+Ctrl+F2
+&Channel Permissions
+Manage channel permissions
+Ctrl+F3
+&Channel Groups
+Manage channel group permissions
+Ctrl+F4
+&Channel Client Permissions
+Manage channel client permissions
+Ctrl+F5
+Check for &Update
+Check if a new TeamSpeak 3 client version is available
+Show News &Ticker
+Show latest news about TeamSpeak
+&Identities
+Manage user identities
+Ctrl+I
+&ServerQuery Login
+Set login name and password for your ServerQuery connection
+Use &Privilege Key
+Use Privilege Key to get specific permissions
+Channel &Groups of Client
+Display channel groups of specified client
+Start &Recording
+Start recording
+Ctrl+Shift+R
+Stop &Recording
+Stop recording
+Ctrl+Shift+T
+Status Bar
+Offline Messages
+Open Offline Message Dialog
+Ctrl+O
+Toggle channel subscribe mode
+Ban List
+Opens the Ban List
+Ctrl+Shift+B
+Complaints List
+Show list of complaints
+Ctrl+Shift+C
+View &Changelog
+View the TeamSpeak 3 Client Changelog
+View &License
+View the TeamSpeak 3 Client License
+Set &Phonetic Nickname
+Set your nickname written in phonemes
+&Privilege Keys
+Manage privilege keys on this server
+&Connection Info
+Retrieve connection information
+&List All Clients
+Show list of all clients on the current server
+Customize Toolbar
+Master Volume
+&Whisper Lists
+Manage whisper lists
+Ctrl+Shift+W
+&Whisper History
+Show whisper history for current server
+Ctrl+Shift+H
+&Invite Buddy
+Invite a buddy to this server
+&Toggle ServerQueryClients
+Toggle ServerQueryClients on this server
+T&oggle Block Incoming Whispers
+Toggle Block Incoming Whispers
+&Call
+Call user
+Open telephony settings
+&Connections
+S&elf
+Per&missions
+&Tools
+Teleph&ony
+P&lugins
+&Help
+On active server
+Set Away
+Install &Overwolf
+Install Overwolf Overlay
+Filetransfer in progress
+There are %n filetransfer(s) in progress.
+If you quit now, any transfer will be aborted.
+Do you really want to quit?
+Error
+Failed to start Overwolf
+Voice Volume Adjustment
+The current server tab has no active playback profile!
+Playback Profile: <strong>%1</strong> 
+<strong><br>Hint: </strong>
+Values greater than zero and less than +6 dB might cause moderate clipping and distortion, but should still be within acceptable bounds.
+Values greater than +6 dB will cause clipping and distortion that will negatively affect your audio quality. It is advised to chose lower values.
+Voice Volume Adjustment [%1]
+&Disconnect Message:
+Customize message sent when disconnecting
+Message Presets
+Add new preset
+Add
+Delete selected preset
+Delete
+Away
+Ban
+Messages
+Personalize Messages
+leaving
+The preset name already exists
+Unfortunately, the operating system denied access to the microphone.<br>Click <a href = "#open_os_permissions">here</a> to open the Windows privacy settings and allow apps to use it.
+Unfortunately, the operating system denied access to the microphone. Please check your permission settings.
+Permission Error
+&More
+&Less
+Message
+Setup
+Warning
+Error
+Info
+News:
+Hide this news
+Disable news
+&Sound Pack:
+&While Output Muted:
+Use as Default for all Bookmarks
+Hint: The Sound Pack can be overwritten for each <a href="jumpTo:OpenBookmarks">Bookmark</a>.
+Play selected sound (Alt+P)
+&Play
+Alt+P
+No valid entry selected
+Visit TeamSpeak Addons webpage
+Notifications
+Configure the Notifications
+Get more soundpacks
+Play all sounds
+Play only important sounds
+Play no sounds
+Select Group
+Deselect Group
+Select All
+Deselect All
+Expand Group
+Collapse Group
+Expand All
+Collapse All
+Mark as Important
+Connection
+Channel
+Server
+Client
+You
+Chat
+Sound capture
+Sound playback
+Status
+Other
+Special
+Connected to server
+Disconnected from server
+Lost connection to server
+Created
+Deleted
+Edited
+Moved
+By you
+By other client
+By the server
+Current Channel
+Other Channel
+Error
+Insufficient permissions
+By other
+Switched
+Renamed
+Was Kicked
+Was Banned
+Was Assigned a Group
+Recording
+Requests Talk Power
+Connected
+Disconnected
+Lost Connection
+Current channel
+To Current Channel
+Away from Current Channel
+To Different Channel
+And appears
+And stays in view
+And disappears
+You have been renamed
+Other has been renamed
+From Channel
+From Server
+Away From Current Channel
+Server Group
+Channel Group
+Added by the server
+Added by a user
+Removed by the server
+Removed by a user
+Changed by the server
+Changed by a user
+Starts recording
+Stops recording
+Is already recording
+Switched channel
+Were moved to different channel
+Were Kicked
+Were banned
+Talk Power was granted
+Talk Power was revoked
+Were Assigned a Group
+From the server
+From the channel
+You sent a client message
+You received a client message
+You sent a channel message
+You received a channel message
+You sent a server message
+You received a server message
+Muted
+Unmuted
+Set to away
+Set to present
+Received poke
+Sent poke
+File transfer complete
+File transfer failed
+Whisper list empty
+No whisper target found
+Too many whisper targets
+Incoming whisper
+Mic clicks other off
+Mic clicks other on
+Mic click self off
+Mic click self on
+3D test sound
+Playback test sound
+Talking while muted
+Action
+Sound Script
+Text Location
+This item is marked as important!
+No sound script available
+<strong>File "%1" not found</strong>
+No entry selected
+channelname
+clientname
+Mark as Unimportant
+Use Default?
+Are you sure you want to use the selected Sound Pack as Default for all your Bookmarks?
+Server
+Channel
+Client
+None
+Compose new message<br>(Ctrl+N)
+&Compose
+Reply to selected message<br>(Ctrl+R)
+&Reply
+Delete selected messages<br>(Del)
+&Delete
+Subject:
+Reload messages<br>(F5)
+Reload
+Offline Messages on %1
+Subject
+Sender
+Date
+Data
+Ctrl+N
+Ctrl+R
+F5
+<no Subject>
+Unread message...
+Do you really want to delete the unread message<br>with subject: <strong>"%1"</strong>?
+New message
+Reload messages
+Reply to message
+Delete messages(s)
+Mark as Read
+Mark as Unread
+New Message
+Recipients:
+Text
+&Subject:
+Available Contacts:
+Send
+Cancel
+The nickname is unknown on this server.
+You have no permission to search for users on this server, so you can only use existing contacts.
+A nickname is unknown on this server or couldn't be identified.
+You don't have the permission to send offline messages.
+New Offline Message
+Reply Offline Message
+"%1" wrote: 
+Please enter a nickname or doubleclick a contact from the contact list.
+Message is empty
+Please Confirm
+The list of receipients is not empty and the message has not yet been sent.  Do you want to cancel?
+Character limit reached (%1)
+Options
+Unsaved Changes
+<p>The "%1" settings have been modified.</p><p>Do you want to <strong>Save</strong>, <strong>Discard</strong> your changes<br>or <strong>Abort</strong> closing this window?</p>
+Information
+Do not show again
+Add client
+Enter client unique ID or database ID:
+Drag & Drop client here or enter client unique ID:
+Nickname:
+Invalid
+Unique ID:
+Unknown
+Add
+Rename
+Copy
+Remove
+Clients in channel group
+Create Privilege Key
+Permanent Group
+Temporary Group
+Template Group
+ServerQuery Group
+Default Group
+Add
+Remove
+Copy Unique ID to clipboard
+Confirm Delete Group
+Delete Group
+Abort
+<p style="color:red;">You are about to delete the template group <strong>%1</strong>.<br>This can ruin your permissions setup.</p>
+<p>Please confirm deleting group <strong>%1</strong>.</p>
+Delete even if there are clients in the group
+Target &Name:
+Target &group:
+Target &type:
+Copy Server Group
+Copy Channel Group
+Copying group <span style="font-weight:bold;">%1</span>
+New group
+Regular group
+Template group
+ServerQuery group
+(Copy)
+(Copy %1)
+You are about to overwrite a %1 group. Do you want to continue?
+Confirmation
+Permissions Overview
+&Filter:
+Permission
+Value
+Skip
+Negated
+Grant
+Reload
+Export as Text
+Show descriptions
+Show names
+All
+Server Groups
+Client
+Channel
+Channel Groups
+Channel Client
+Invalid client
+Invalid channel
+%1 in channel "%2"
+Select text file
+Text files (*.txt)
+Copy Permission Name
+&Search:
+Add client
+Add
+Remove selected client
+Remove
+No permissions to display clients inside this group.
+Clients which are not in any other group are automatically inside this group.
+Do you really want to delete "%1" from server group "%2"?
+Do you really want to delete multiple clients from server group "%1"?
+Confirmation
+Your requested ID was not found on this server! Would you like to create an invitation instead?
+Not possible due to spam protection. Please try again later.
+Permissions group
+&Boolean values:
+Active
+&Integer values:
+&Skip channel group
+&Negated
+Permission Information
+Name:
+Description:
+Information:
+&Search:
+Search results:
+Not found
+Select this permission
+Copy Permission Name
+Unknown (%1)
+Invalid permission: 0x%1
+Clear filter text
+&Filter:
+Show granted permissions only
+Show &granted only
+Switch to standard permissions display
+Show descriptions
+Show names
+Skip flag enabled for group
+Show permissions info
+No permissions to view this group.
+Add Permission
+Remove Permission
+Add Grant Permission
+Remove Grant Permission
+Add Permission Group
+Remove Permission Group
+Edit Permission Group
+Expand All
+Collapse All
+Copy Permission Name
+Permission
+Value
+Skip
+Negate
+Grant
+Reset
+Global
+Virtual Server
+Channel
+Group
+Client
+File Transfer
+Information
+Virtual Server Management
+Administration
+Settings
+Create
+Modify
+Delete
+Access
+Admin
+Basics
+Confirmation
+<p>Are you sure you want to set the grant permission for<br>%1 to zero?</p><p>If you proceed, you will no longer be able to change the<br>value of this permission.</p>
+<p>Are you sure you want to remove the grant permission for<br>%1?</p><p>If you proceed, you will no longer be able to change the<br>value of this permission.</p>
+None
+Before
+Behind
+Permissions
+Reload
+Server Groups
+Client Permissions
+Channel Permissions
+Channel Groups
+Channel Client Permissions
+Set Phonetic Nickname
+Enter your Phonetic Nickname:
+&Play
+Connection Quality
+Disconnected
+Calculating...
+Ping
+Packet-Loss
+Playback
+Configure the Playback Sound System
+Play &Test Sound
+Quiet
+Loud
+Voice Volume Adjustment
+Sound Pack Volume
+Automatically use best mode
+Default
+Custom
+Error
+Error opening playback device: %1
+Stop &Test Sound
+<strong>File "%1" not found</strong>
+Delete Hotkeys...
+Playback Profile <strong>"%1"</strong> has been deleted.<p>Do you want to delete every Hotkey assigned to this profile as well?</p>
+Default
+You Have Been Poked
+Select All
+Copy
+Add profile
+Remove profile
+Add Profile
+Delete
+Profiles
+Unsaved Changes
+You have unsaved changes to profile "<strong>%1</strong>".<BR>Do you wish to apply them?
+profile
+Error
+Exceeding maximum of %1 synchronized hotkeyprofiles
+You have unsaved changes to profile "<strong>%1</strong>".<BR>Do you really want to delete the profile?
+ profile 
+Go Advanced
+Go Basic
+%n unread offline message(s)
+Host message
+%n year(s)
+%n day(s)
+%n hour(s)
+%n minute(s)
+%n second(s)
+Warning
+Information
+Need a restart
+Images
+All files
+Country
+The directory "<strong>%1</strong>" is not writable and cannot be used to place downloads!
+Change
+Select download folder
+<p><strong>TeamSpeak fails to start because it cannot find any port.</strong></p><p>Please see our <a href="https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/322/0/teamspeak-fails-to-start-because-it-cannot-find-any-port">knowledge base</a> for further details.</p>
+Critical
+down
+up
+<p>We found a DLL which was injected by "Lavasoft Ad-Aware".</p><p>Lavasoft Ad-Aware can possibly cause the TeamSpeak client to crash. If you experience any issues, you may need to uninstall Ad-Aware.</p>
+Lavasoft Ad-Aware found
+Bookmarks and Folders
+Identities
+Hotkey Profiles
+Whisper Lists
+The following items exceed your account limit and have been imported into local storage instead:
+Please inspect these items and decide which you want to synchronize.
+Discard is only available on Windows
+Discard is not available in default mode
+Discard
+Active Tab
+Synchronized profiles
+Local profiles
+Local
+Cloud
+The directory "<strong>%1</strong>" cannot be opened.<br>Do you want to change it?
+&Change
+New Filename
+New name:
+(invalid)
+Speex Narrowband
+Speex Wideband
+Speex Ultra-Wideband
+CELT Mono
+Opus Voice
+Opus Music
+Unknown Codec
+Delete items
+Quit
+Error loading data
+<p>Your stored items (bookmarks, identities etc.) could not be loaded.</p><p>You can delete all these corrupt items and start over with a clean configuration.</p>
+Enter your master password to decrypt all saved passwords and identities.
+Password:
+Password incorrect. Try again:
+Enter master password
+Retry
+Start without decrypting
+Multiple incorrect passwords
+You have entered an incorrect master password several times. Perhaps you have forgotten it. Do you want to Retry entering the correct password, or Start without decrypting, or quit? If you start without decrypting, all of your locally stored sync items will be deleted - synced data are unaffected.
+Start without backup
+Error creating backup
+An error occured while creating backup of the setting.db. If you start without creating a backup, all of your encrypted data will be lost. This can NOT be undone
+<p>TeamSpeak needs to update file associations in the Windows registry.</p><p>If you are running with an Administrator user account and have UAC enabled, an UAC dialog will appear asking for your permissions to run a TeamSpeak utility.</p><p>Press <strong>Ok</strong> to run this utility now, <strong>Cancel</strong> to not run it now but check again next time, <strong>Ignore</strong> to never show this message again.</p>
+Error
+<p>Failed to start "%1".</p><p>Please start createfileassoc.exe manually.</p><p>Press <strong>Ignore</strong> to not show this message again.</p>
+Failed to load ca certificates!
+Please install ca certficates on your system, or specify the location using the SSL_CERT_DIR or SSL_CERT_FILE environment variable.
+Failed to initialize data backend.
+Press hotkey combination
+Overlapping detected
+Warning, your key combination <strong>"%1"</strong> overlaps with an<br>existing Key-Binding or is already bound!<br><br>Do you want to proceed?
+Redeem Code
+Code:
+Redeem
+The icon for the server was not found.
+The icon for channel "%1" was not found.
+The icon for client "%1" was not found.
+The icon for server group "%1" was not found.
+The icon for channel group "%1" was not found.
+Unknown
+Restore Recovery Key
+Enter your recovery key:
+Apply key
+Fallback
+Hide search
+Next
+Find next match
+Previous
+Find previous match
+Match case
+Do a case sensitive search
+Search all tabs
+Search in all tabs
+Search Chat:
+Search Tree:
+Search:
+Security
+Configure Security
+Saving channel passwords to your computer might pose a security risk. The passwords are saved to a file, which might be compromised if anyone gets access to it. If you do not trust everybody who uses your computer, this option should not be enabled.
+Clear Channel Passwords
+This will remove all stored channel passwords.  Are you sure you want to proceed?
+Server Connection Info
+Name
+Version
+Average ping
+License
+Platform
+Address
+Uptime
+Copy address to clipboard
+Average packetloss
+In
+Out
+Packets transferred
+Bytes transferred
+Bandwidth last second
+Bandwidth last minute
+File transfer bandwidth
+File transfer bytes transferred
+%1/s
+%1 ms
+Server Groups
+Changing groups of <b>%1</b>
+<p style="font-weight:bold;font-size:large;color:red;text-align:center;">Changing own groups</p>
+<p>You are about to change your own groups. If you leave a group, you might not be able to get it back on your own!</p>
+&Critical
+&Errors
+&Warnings
+&Info
+&Highlighting
+&Exclude filter
+UTC time
+Local time
+&Search:
+Search text in log. Press Enter to search next location.
+&Filter:
+Only show lines matching filter text. Press Enter to apply filter.
+&Case sensitive
+Previous
+Next
+&Reload
+Show &Older
+Server Log - %1
+Server Log not supported by this server version
+Insufficient permissions to view Server Log
+No log entries available
+Exclude Filter
+Exclude log entries containing the following terms:
+&Add
+&Remove
+New filter
+Highlight Setup
+&Add
+&Remove
+Move &up
+Move &down
+&Foreground color
+&Background color
+Set custom foreground color
+Set custom background color
+Black
+White
+Light Gray
+Gray
+Dark Gray
+Red
+Dark Red
+Green
+Dark Green
+Blue
+Dark Blue
+Cyan
+Dark Cyan
+Magenta
+Dark Magenta
+Yellow
+Dark Yellow
+Transparent
+Custom
+New item
+Select foreground color
+&Name:
+ServerQuery Login
+<p>Set login name for your ServerQuery connection<br>to <strong>%1</strong></p><p>You will receive your password in the next step.</p>
+ServerQuery Password
+Your ServerQuery Login:
+&Name:
+&Password:
+Unknown
+Run
+Single step
+Stop
+Restart
+Clear highlighting (Escape)
+Esc
+&Delay:
+Delay between each ServerQuery command
+ secs
+Show advanced options
+Authentication
+Select authentication method
+Login command
+Manual
+Automatic
+Manual authentication
+&Login:
+&Password:
+Library
+Add new ServerQuery script
+Update selected ServerQuery script
+Remove selected ServerQuery script
+Show Nickname
+Show Identity
+Show Ping
+Show Connection Quality
+Connected
+Connected as
+%1 ms %2 %3
+(calculating ping)
+Disconnected
+Connecting
+Connected as %1, receiving Channel List
+(Locked) In Preview
+We updated our myTeamSpeak services
+Update your client to continue using sync related features
+Later
+Update
+make sure to update your client
+myTeamSpeak session expired
+Sync related features are unavailable at the moment
+Please enter the password for your current account
+If you skip this, you can visit the settings later to perform a new login
+Invalid server address: <span class='TextMessage_HostName'>%1:%2</span>
+Trying to resolve hostname <span class='TextMessage_HostName'>%1</span>
+Aborting connection attempt to '%1', already connecting
+This server configuration is deprecated. Support for this configuration will be dropped in the future.
+Please contact your server administrator. For details please see this %1Knowledge Base%2 article.
+The TSDNS server '%1' does not know '%2'
+Failed to resolve hostname '%1'
+No server
+Error retrieving filebrowser: %1
+Error refreshing file list: %1
+You don't have permissions to send channel chat messages, failed to send text message.
+Insufficient permissions...
+You don't have the permission to send server text messages. Do you want to send a channel chat message instead?
+leaving
+Password
+Enter server password:
+Send Offline Message
+Permissions
+Server changed
+<p><strong>The identity of this server has changed.</strong></p><p>This could have one of these reasons:<ul style="margin-left:-2em"><li>A new TeamSpeak server is running at this address.</li><li>The security of your connection to this server is compromised,<br>a man-in-the-middle attack is taking place.</li></ul></p><p>Do you want to accept the new identity and remain connected?</p>
+You have %1
+There are no clients in this channel. Changing it to temporary will delete it after %1. Do you want to change the channel to temporary?
+There are no clients in this channel. Changing it to temporary will delete it. Do you want to change the channel to temporary?
+Question
+Information
+The default channel cannot be deleted.
+Open Text Chat
+This will activate another server tab.  Would you like to continue?
+You are attempting to chat with a ServerQuery client. Please note that text messages will only be received if the ServerQuery is registered for private text messages events with "servernotifyregister event=textprivate".
+Kick from Channel
+Kick Message:
+Poke
+Poke Reason:
+Complaint
+Enter the reason for your complaint
+Kick from Server
+Client banned: %1
+Failed to remove priority speaker. Probably it was not set as channel client permission. Check other permissions types manually in the permissions window.
+Complaint sent.
+Cannot add multiple complaints about the same client.
+Privilege Key successfully used.
+<p style="color:red;">Invalid Privilege Key.</p><p>Either you entered an invalid Privilege Key or it has already been used.<br>Remember a Privilege Key can be used only once.</p>
+Failed to use Privilege Key: %1
+This ServerQuery login name is already used.
+Description
+Client Description:
+The TeamSpeak server could not validate your myTeamSpeak ID. Some myTeamSpeak related services are not available.
+Reconnecting might solve the issue.
+myTeamSpeak notification
+The TeamSpeak server could not validate your myTeamSpeak ID
+<p>You are about to leave servergroup <strong>"%1"</strong>.</p><p>You might not be able to rejoin this group on your own!</p><p>Do you really want to proceed?</p>
+Leaving a group
+Talk Power Request
+Enter reason for talk power request
+Disconnected from server
+Connection to server lost
+Failed to connect to server
+Connection lost because server license can not be validated
+Disconnected from server (%1)
+Unknown
+Warning
+<p>This server version is outdated.</p><p style="color:red;font-weight:bold;">Recent versions of the TeamSpeak Client will not function properly on this server.</span></p><p>Please contact the hoster to update this TeamSpeak server.</p>
+Connected to Server: %1
+<p>This client version is outdated.</p><p>Do you want to check for updates now?</p>
+<p>The server version is outdated.</p>
+<p>The following features are known to not function properly:</p><ul style="margin-left:-25;">
+<li>Sending and receiving text chat messages</li>
+<li>Whispering to channels</li>
+<li>Members of permission groups might not be displayed</li>
+<li style="color:red;font-weight:bold;">Voice transmission can be corrupted, this server cannot be used with this client. The server should be updated.</li>
+<li>Certain characters in text messages are transmitted incorrectly</li>
+</ul>
+Channel %1 created successfully
+Channel %1 created by %2
+Channel %1 was deleted
+Channel %1 was deleted by %2
+Channel %1 was moved, new parent channel is %2
+Channel %1 was moved by %2, new parent channel is %3
+Successfully renamed channel %1 to %2
+Channel %1 edited successfully
+Channel %1 was edited by %2
+Channel %1 was renamed to %2 by %3
+Talk power granted by %1
+Talk power revoked by %1
+Talk power granted
+Talk power revoked
+%1 requested talk power
+%1 started recording
+%1 stopped recording
+Started recording
+Stopped recording
+Your description has been changed to "%1".
+Your description has been removed.
+Your description has been changed to "%1" by %2.
+Your description has been removed by %1.
+Renewed myTeamSpeak ID received and successfully validated.
+%1 connected to channel %2
+%1 disconnected
+%1 disconnected %2
+%1 appears, coming from channel %2
+You switched from channel %1 to %2
+%1 switched from channel %2 to %3
+%1 left heading to channel %2
+%1 dropped (ping timeout)
+%1 dropped (%2)
+You dropped (ping timeout)
+You dropped (%1)
+%1 appears, was moved from channel %2 by %3 %4
+%1 was moved from channel %2 to %3 by %4 %5
+You were moved from channel %1 to %2 by %3 %4
+%1 left, was moved to channel %2 by %3 %4
+%1 appears, was kicked from channel %2 by %3 %4
+%1 was kicked from channel %2 by %3 %4
+You were kicked from channel %1 by %2 %3
+%1 left: was kicked to channel %2 by %3 %4
+%1 was kicked from the server by %2 %3
+You were kicked from the server by %1 %2
+permanently
+for %1
+%1 was banned %2 from the server by %3 %4
+You were banned %1 from the server by %2 %3
+Server properties edited successfully
+Server properties have been edited by %1
+Server has been shut down: %1
+<p><div class="TextMessage_Poke"><span class="TextMessage_Time">%1</span> - %2 pokes you: %3</div></p>
+%1 pokes you: %2
+<p><div class="TextMessage_Poke"><span class="TextMessage_Time">%1</span> - %2 pokes you.</div></p>
+%1 pokes you
+%1 - %2 pokes you: %3
+%1 - %2 pokes you.
+You Have Been Poked
+The password of channel %1 has been changed.
+[Inherited from: %1]
+Channel group "%1"%2 was assigned to %3 by %4.
+%2 was added to server group "%1" by %3.
+%2 was removed from server group "%1" by %3.
+Chat partner has closed the conversation
+This server is blacklisted. Refusing to connect.
+<p>You are connecting to a TeamSpeak server that seems to be using an invalid license.</p><p>If you are the owner of this server, please check with your TeamSpeak host provider to verify they are using a valid license for your server.</p>
+Continue
+Connection aborted.
+You are not connected to a server, this message has not been sent.
+Chat partner is out of view
+<p>Your chat partner is out of view.</p><p>Do you want to send the chat text as an offline message?</p>
+Out of view
+This ServerQuery client did not register for the private text message event using "servernotifyregister event=textprivate". The text message was not received.
+(failed on %1)
+No permissions to view the description of channel %1
+Offline message sent.
+You poked %1 with message: %2
+You poked %1.
+&Client Connection Info
+Retrieve client connection information
+&Server Connection Info
+Retrieve server connection infomation
+&Switch to Channel
+Switch into the selected channel
+S&ubscribe to Channel
+Display the occupants of this channel
+S&ubscribe to All Channels
+Display the occupants of all channels on this server
+U&nsubscribe from Channel
+Discontinue displaying the occupants of this channel
+U&nsubscribe from All Channels
+Discontinue displaying the occupants of all channels on this server
+S&ubscribe to Channel Family
+Display the occupants of this channel and all subchannels
+U&nsubscribe from Channel Family
+Discontinue displaying the occupants of this channel and all subchannels
+&Create Channel
+Create a new channel
+C&reate Sub-Channel
+Create a new subchannel
+&Edit Channel
+Change the properties of this channel
+&Delete Channel
+Delete the selected channel
+&Open Text Chat
+Open a new chat tab for this client
+&Kick Client from Channel
+Kick the selected client from this channel
+&Kick Client from Server
+Kick the selected client from this server
+&Poke Client
+Get the attention of the selected client
+Expand All
+Expand all channels
+Collapse All
+Collapse all channels
+Expand Subchannels
+Expand all subchannels
+Collapse Subchannels
+Collapse all subchannels
+&Change Nickname
+Change your nickname on this server
+&Join Channel of Client
+Join the channel of this client
+&Move Client to own Channel
+Move this client to your own channel
+&Find Client in Channel Tree
+Find and select this client in the channel tree
+Open File Browser
+Open the File Browser for this channel to share files
+Setup 3D Sound
+Configure 3D sound for this channel
+Set Avatar
+Select and upload your avatar
+Delete Avatar
+Delete own avatar
+Delete Users Avatar
+Delete users avatar
+Mute Client
+Mute this client
+Unmute Client
+Unmute this client
+Permissions Overview
+Display permissions overview
+Add as Friend
+Add this client to the Contact Manager as Friend
+Add as Blocked
+Add this client to the Contact Manager as Blocked
+Remove from Contacts
+Remove this client from the Contacts List
+Edit in Contacts
+Open the Contact Manager and edit this client
+Request Talk Power
+Request talk power
+Cancel Talk Power Request
+Cancel talk power request
+Client Permissions
+Modify client permissions
+Channel Permissions
+Modify channel permissions
+Channel Client Permissions
+Modify channel client permissions
+Make a Complaint
+Make a complaint about this client to the server admin
+&Ban Client
+Ban the selected client
+&Change Description
+Edit this clients description
+&Priority Speaker
+Assign or remove Priority Speaker permissions to this client in this channel
+Change &Volume
+Adjust voice volume of this client
+Edit Virtual Server
+Edit virtual server settings
+Add Temporary Password
+Add temporary server password
+Temporary Passwords
+Manage temporary server passwords
+Grant Talk Power
+Grant talk power to this client
+Revoke Talk Power
+Revoke talk power from this client
+Grant Next Requested Talk Power
+Grant talk power to the next requesting client in your current channel
+Revoke All and Grant Next Requested Talk Power
+Revokes talk power from everyone and grants it to the next requesting client in your current channel
+View Icons
+View servergroup and channelgroup icons of this virtual server
+Server Groups Dialog
+Handle servergroups for current client
+Channel Groups of Client
+Display channel groups of specified client
+&Channel Commander
+Assign or remove Channel Commander status to this client
+Create &Spacer
+Create a new spacer
+Set Channel Group
+Set Inherited Channel Group
+Set Server Group
+Trying to connect to server on <span class='TextMessage_HostName'>%1</span>
+You need to setup your identity.
+<p>The configured playback device was not found.<br>Instead using: <strong>%1</strong></p>
+The configured playback device was not found. Instead using: %1
+<p>The configured capture device was not found.<br>Instead using: <strong>%1</strong></p>
+The configured capture device was not found. Instead using: %1
+<p>Press <strong>OK</strong> to apply the changes or press <strong>Setup</strong> to change the configuration manually.</p>
+Press OK to apply the changes or press Setup to change the configuration manually.
+You are now known as "%1"
+%1 is now known as %2
+Your avatar was deleted.
+<p>You entered a moderated channel. You can only speak if <strong>Talk power</strong> has been granted to you.</p>
+<p>To request Talk Power, right-click on your name and select <strong>Request Talk Power</strong> in the popup menu. Wait until a moderator grants you Talk Power.</p>
+<p style="color:red;">This server requires a newer client version.</p><p>Please update your client or visit <a href="www.teamspeak.com">www.teamspeak.com</a> to download the latest version.</p><p>Do you want to check for updates now?</p>
+The TeamSpeak server version is outdated. Please contact your hoster to update the server.
+Invalid server password.
+Maximum number of connections with the same identity exceeded.
+Insufficient identity security level for this server. You need to improve your identity security level.
+<p>A dialog to improve the identity security level is already open.</p><p>Please increase the security level of the required identity on this server manually.</p>
+Failed to get required identity security level. Please manually increase your identity security level.
+Connection failed because the server reached its maximum amount of clients.
+Connection failed because the channel reached its maximum amount of clients.
+Connection failed: <strong>The channel reached its maximum amount of clients</strong>.<br>Would you like to join the servers default channel instead?
+Connection failed because the channel reached its maximum amount of family clients.
+Connection failed: <strong>The channel reached its maximum amount of family clients</strong>.<br>Would you like to join the servers default channel instead?
+Maximum reached
+Action currently not possible due to spam protection. Please wait a few seconds and try again.
+the Server
+Turning Push-To-Talk on, "force-push-to-talk" permission was assigned.
+Turning Voice Activation on, "force-push-to-talk" permission has been removed.
+Turning Continuous Transmission on, "force-push-to-talk" permission has been removed.
+<strong>Note: This channel contains files.</strong><br><br>
+<strong>Note: This channel could contain files.</strong><br><br>
+There are clients inside this channel.<br>Really delete this channel and kick all clients out of it?
+This channel has subchannels.<br>Really delete this channel including all subchannels?
+Do you really want to delete this channel?
+Confirmation
+Capture Profile
+Playback Profile
+Hotkey Profile
+Sound Pack
+Disconnect
+Close
+Close All Tabs but This
+Add to Bookmarks
+Mute Microphone
+Mute Speakers/Headphones
+&Activate Microphone
+Current server
+Select capture profile for this server
+Select playback profile for this server
+Select hotkey profile for this server
+Select sound pack for this server
+(Un)Mute the Microphone on the current server
+(Un)Mute the Speakers/Headphones on the current server
+Activate the Microphone
+Found %n unfinished filetransfer(s)
+Do you want to resume your unfinished transfer(s) now?
+If you click "No", you will be asked again after the next login.
+Unmute Microphone
+Unmute Speakers/Headphones
+Close Connected Server Tab
+You are still connected to <strong>%1</strong>.<br>Disconnect and close tab?
+Disconnect from Server
+You are still connected to <strong>%1</strong>.<br>Disconnect tab?
+Cannot disband the overlapping text automatically!
+Delete Item
+Show all known entries
+Unsaved Changes
+The settings have been modified. Do you want to apply your changes?
+[3D Sound] %1
+More...
+Channel Commander
+Female
+Male
+Channel switched
+User entered your channel
+Channel created
+You were poked
+User left your channel
+Current Sound Pack:
+To help make TeamSpeak a better program, we would like to collect some statistics about your operating system and hardware. The data is sent anonymously.
+Would you like to participate?
+Report
+Show errors
+Clear errors
+%n new error message(s)
+%n new warning message(s)
+Preset Name
+Message
+Type
+New Preset
+Away
+Ban
+Show Offline Messages
+<p style='white-space:nowrap'>You have <strong>%n</strong> unread offlinemessage(s)</p>
+%1% of 
+%n download(s)
+%1 down - %2
+%n upload(s)
+%1 up - %2
+%n queued
+File transfer error
+SuperClass: 
+ParentClass: 
+ClassName: 
+ObjectName: 
+myTeamSpeak
+Temporary server password
+Temporary password:
+Description (optional):
+Expires after:
+days
+hours
+minutes
+Channel to join:
+Channel password (optional):
+No target channel
+Wrong channel password
+Add new temporary password<br>(Ctrl+N)
+Add
+Remove selected temporary passwords<br>(Delete)
+Remove
+Create an invitation using the selected temporary password
+Invitation
+Reload
+Close
+Password
+Creator
+Channel
+Channel Password
+Created
+Expires
+Description
+Invalid
+Temporary Server Passwords
+Temporary Server Passwords - %1
+Create Invitation
+Copy password to clipboard
+Download
+Show in File Browser
+Copy Link to Clipboard
+Open
+Add Privilege Key
+&Type:
+Specify if the privilege key should be created for server- or channelgroups
+Server Group
+Channel Group
+&Group:
+Specify server- or channel group for this privilege key
+&Channel:
+When creating a privilege key for a channelgroup, specify the channel here
+&Description:
+Optional description for this privilege key
+&Generated privilege key:
+Copy to clipboard
+Create
+Invitation: %1 [%2]
+Invitation: %1 [%2] %3
+Privilege Keys
+Create new privilege key
+Create
+Reload all privilege keys
+Reload
+Remove selected privilege keys
+Remove
+Privilege Key
+Type
+Group
+Channel
+Created
+Description
+You have insufficient client permissions to view the privilege key list.
+unknown
+Invalid
+Copy Privilege Key to clipboard
+Use Privilege Key as invitation
+File Transfer
+&Apply to all files
+Rename
+&Resume
+&Overwrite
+Skip
+Skip All
+&Abort
+This folder already contains a file
+Do you want to resume or overwrite the existing file
+Do you want to overwrite the existing file
+Size: <strong>%1</strong>
+Date: <strong>%1</strong>
+Date: <strong>&lt;unknown&gt;</strong>
+with this file
+Invalid channel
+upload to: 
+download from: 
+Queue %1
+Upload finished: %1
+Download finished: %1
+Error creating directory "%1": %2
+TeamSpeak 3 Client
+&Show
+&Hide
+&Quit
+Server Icon
+On whisperlist
+Default channel
+Password-protected
+Forced silence
+Music codec
+Moderated
+Channel Icon
+Priority speaker
+Channel commander
+Talk Power granted
+ (Double click to revoke)
+Insufficient Talk power
+Client Icon
+Talk Power requested
+ (Double click to cancel request)
+ (Double click to grant request)
+Using Overwolf
+%1 [Server Group]
+%1 [Channel Group]
+Permanent
+Semi-Permanent
+Default
+Password
+RECORDING
+Channel tree
+tree_tooltip_client.tpl
+Description
+Nickname
+Online since
+tree_tooltip_channel.tpl
+Codec Quality
+Codec
+Unlimited
+Inherited
+Name
+Topic
+Unencrypted
+Encrypted
+Voice Data Encryption
+Current Clients
+Type
+Subscribed
+Not subscribed
+Subscription Status
+Needed Talk Power
+Channel will be deleted in %1.
+Error creating directory: %1 %2
+Error downloading file: <strong>%1</strong>
+Downloads from other servers are deactivated for now!
+Select download folder
+Information
+A download with files from a folder is already running.
+Update available
+Do you want to update? TeamSpeak will be closed if you proceed.
+Update
+Not now
+TeamSpeak %1 is available.
+A new TeamSpeak version is available.
+Checking for Update
+You are already running the latest version.
+Error
+Failed to query latest client version from update server.
+Failed to start updater.
+URL
+Times Mentioned
+Last Mentioned
+Mentioned by
+Open in Webbrowser
+Copy to clipboard
+Delete
+Collected URLs
+Clear search
+&Search:
+&Clear list
+Confirmation
+Delete all URL entries?
+Master volume:
+&Restore
+Volume - %1
+Error, could not open Capture Device.
+Speak clearly and adjust the voice level.
+Press %1 to talk.
+Please define a Hotkey.
+Continuous transmission - just talk.
+The OS denied access to the microphone. Please click <a href="#open_os_permissions">here</a> to open the Windows privacy settings and allow apps to use it.
+Begin Test
+Stop Test
+Icon:
+Reserved Slots:
+Server Name:
+Maximum Clients:
+Password:
+Welcome Message:
+Server Nicknames:
+<p>Server nicknames are registered on the myTeamSpeak webpage and can be used to easily connect to a TeamSpeak Server.</p> <p>Enter already registered servernames here to show them to users. Seperate nicknames by linebreak.</p>
+Host
+Host Message
+Message:
+Message Mode:
+Preview
+Host Banner
+Banner Gfx URL:
+URL:
+Gfx Interval:
+Resize:
+Do not adjust
+Adjust but ignore aspect ratio
+Adjust and keep aspect ratio
+Host Button
+Tooltip: 
+Icon URL:
+Integrations
+Transfers
+Upload
+Byte/s
+Upload Quota:
+Bandwidth Limit:
+MiB
+Download
+Download Quota:
+Anti-Flood
+Reduced points per tick:
+Points needed to block commands:
+Points needed to block IP:
+Security
+Needed Security Level:
+Channel voice data encryption:
+Configure per Channel
+Globally Off
+Globally On
+Misc
+Default Groups
+Channel Group
+Channel Admin Group
+Server Group
+Complain
+Autoban Count:
+Autoban Time:
+Remove Time:
+ sec
+Priority speaker dim modificator:
+Min clients in channel before silence:
+Delete delay for temporary channels:
+<p>Delay in seconds after temporary channels are deleted after the last user left the channel.</p>
+Phonetic Name:
+Enable reporting to server list
+Logs
+Enable Logging For:
+Clients
+Channels
+Server
+ServerQuery
+Permissions
+File transfer
+Manage Virtual Server[*]
+Register Nickname
+No message (NONE)
+Show message in log (LOG)
+Show modal message (MODAL)
+Modal message and exit (MODALQUIT)
+&OK
+&Cancel
+&Apply
+Edit Icon
+Remove Icon
+<p>The required security level determines how long connecting users will have to improve their identity security level before their identity will be considered valid on to connect to this server, essentially reducing the potential for spam and abuse because once banned the abuser needs to invest a lot of time to create a new one.</p><p>Each increase in security level will require twice the average computation time on the client side. To give you a ballpark figure the average times to create an identity usually is within the following bounds:</p><p>Level 0-23 Generated in seconds<br>Level 23-29 Generated in minutes<br>Level 29-34 Generated in hours<br>Level 35-39 Generated in days<br>Level 40-43 Generated in months<br>Level 44++ Generated in years</p>
+Unsaved Changes
+At least one setting has been modified. Do you want to apply your changes?
+Password Confirmation
+Please confirm the new Password:
+Your entered passwords did not match! No changes have been written yet.
+Warning
+<p>You have selected a permanent group as default.</p><p style="color:red;">Be careful, all existing users in the selected group will be removed!</p>
+<p>You selected MODALQUIT host message mode.</p><p style="color:red;">Be careful, with this setting no user can connect to this server!</p>
+Host Message is empty
+invalid character
+too small
+too large
+Add
+Remove
+Telephone Call
+Phone number:
+Nickname:
+Phone Client
+Telephony account:
+Invite to channel:
+Channel password:
+Server password:
+Verify channel password
+Verify server password
+Phone book
+&Call
+Could not find account
+This account is not active (%1)
+Could not make phonecall to %1
+Could not accept phonecall
+[Local Account]
+Could not register voip account %1
+Global
+Simple
+Max Simultanious calls:
+STUN Server:
+Advanced
+Disable TCP
+SIP Port:
+Outbound Proxy for NAT
+Proxy Server:
+Username:
+Password:
+Voip Accounts
+Accounts
+Account Details
+Domain/Realm:
+Outbound Proxy:
+Registration Timeout:
+ seconds
+Keep-Alive Timeout:
+Accept Calls:
+Never
+Always
+Ask
+TS3 Server Address:
+TS3 Server Port:
+TS3 Nickname
+TS3 Server Password:
+Local Account
+Enable Local Account
+Telephony
+Enter your Telephony settings
+[Local Account]
+Information
+Keep Enabled
+Disable
+Server List
+&Server name
+Contains
+Starts with
+Standard filter
+Location
+&Country:
+&Region:
+&City:
+Users
+Hide empty servers
+Hide full servers
+Servers with
+to
+users
+Max Slots
+slots
+Advanced filter
+Password
+Show all
+Show only with password
+Show only without password
+Create Channels
+Can create channels
+Can not create channels
+FAQ
+Reload
+Apply filter
+Name
+Clients
+Create channels
+Country
+Region
+City
+Connect
+Add to Bookmarks
+Copy Server Address to Clipboard
+All
+Own country
+Displaying %1 servers, last updated: %2
+Last update: %1
+Selecting <strong>Own country</strong> failed.
+Selecting <strong>Own region</strong> failed.
+Selecting <strong>Own city</strong> failed.
+The location of your IP could not be properly resolved.
+Error
+%1 / %2
+Yes
+No
+Max clients
+Current clients
+Address
+/Knowledgebase/Article/View/324/16/how-do-i-add-or-remove-my-server-from-the-server-list
+Requesting serverlist
+Own region
+Own city
+Failed to connect to weblist server.
+Too many requests, next request available in about %1 seconds.
+Server database changed, reloading list.
+Whisper Lists
+Synchronized Whisperlists
+Local Whisperlists
+New
+Remove
+Rename
+Whisper List Details
+Whisper to:
+Hotkey:
+No Hotkey Assigned
+Reply Hotkey:
+<a href="jumpTo:Hotkeys"><span style=" text-decoration: none;">more</span></a>
+Group Whisper Type:
+Group Whisper Target:
+Reload
+Server Group
+Channel Group
+Channel Commander
+All Clients
+All Channels
+Current Channel
+Parent Channel
+All Parent Channels
+Channel Family
+Complete Channel Family
+Subchannels
+Clear whisper history
+Clear
+Open whisper options
+Options
+Unknown
+Whisper History
+%1 on %2
+Mute Client
+Unmute Client
+Poke
+Poke Reason:
+You poked %1 with message: %2
+You poked %1.
+Allow
+Block
+Open Text Chat
+Send Offline Message
+Poke Client
+Make a Complaint
+Change Volume
+Kick from Server
+Ban Client
+Client Connection Info
+Join Channel of Client
+Move Client to own Channel
+Permissions for Received Whispers
+Check individual whisper settings in contacts. If the client is not listed, allow whispering.
+Use individual settings in contacts, else allow
+Check individual whisper settings in contacts. If the client is not listed, deny whispering.
+Use individual settings in contacts, else deny
+Nobody is allowed to whisper to you. Individual contact settings are ignored.
+Deny everyone
+Settings for Received Whispers
+Play notify sound when receiving a whisper
+Always show whisper history when receiving a whisper
+Remove clients in whisper history after
+ mins
+Whisper Lists
+Language
+Select client language (A restart of TeamSpeak is required)
+Update Channel
+Stable
+Beta
+Confirmations
+Reset all "Do not show again" confirmation dialogs
+Reset Confirmations
+Anonymous Statistics
+Send statistics
+Server
+Always try to activate the microphone when switching server tabs. This depends of course, on a valid playback and capture device.
+Activate microphone automatically when switching servers
+Reconnect to servers which were left during standby
+Reconnect servers when system resumes a standby
+Open connection info on clients or filebrowser on channels with middle mouse click
+Use middle mouse button shortcuts in tree
+Automatically update the nickname in the bookmark after changing it while connected to this bookmark
+Automatically update nickname in bookmark
+Misc
+The client will always stay above any other window
+Always stay on top
+Enable more options for permission system
+Advanced permissions system
+Enable a warning sound when talking while the microphone is muted
+Warn when talking while microphone is muted
+The TeamSpeak Client will be automatically started when Windows starts up
+Start TeamSpeak automatically with Windows
+Completely disable the Poke Dialog to avoid problems when running fullscreen games
+Never show Poke Dialog
+Channel Subscription Behaviour
+Automatically subscribe to all channels. On servers with a lot of channels and users this should be avoided.
+Subscribe to all channels
+Only subscribe to the current channel and channels subscribed in a previous connection. Useful for servers with a lot of channels and clients.
+Subscribe to current and previously subscribed channels
+Set Away Message
+Message:
+Preset:
+Profile Details
+Capture Mode:
+Capture Device:
+Push-To-Talk
+Continuous Transmission
+Voice Activation Detection
+<a href="jumpTo:Hotkeys"><span style=" text-decoration: none;">Set more hotkeys</span></a>
+<p><strong>Echo Reduction</strong> reduces the volume of currently talking clients while you talk, and thereby reduces the echoing effect.</p>
+&Echo reduction
+<p><strong>Echo Cancellation</strong> tries to subtract any audio that was played back from the captured signal, reducing the echoing effect at the cost of additional CPU cycles.</p>
+Echo cancellation
+&Advanced Options
+Attempt to filter out background noises
+Remove background noise
+<p><strong>Automatic voice gain control</strong> automatically adjusts the volume of captured sound to ensure you don't sound too loud or too soft compared with others.</p>
+Automatic voice gain control
+Echo &reduction reduces playback by:
+ dB
+Delay when release the Push-To-Talk key until Push-To-Talk is actually disabled
+Delay releasing Push-To-Talk:
+ secs
+Enabled Voice Activation Detection even when Push-To-Talk is used.
+Voice Activation Detection while using Push-To-Talk
+Chat Window
+Maximum number of lines:
+Chats are cut short when the maximum number of lines are exceeded.
+ lines
+Change the default font used in chat tabs
+Change Font
+Reset font to default
+Automatic Logging
+Log channel chats
+Log private chats
+Log server chats
+Reloading Logs
+Reload channel chat logs
+last 
+Reload private chat logs
+Indicate Incoming Chat
+Server
+Channel
+Private
+myTeamSpeak
+<p><strong>Automatic</strong><br>All items(bookmarks, identities etc.) will be created as synchronized items by default.</p><p><strong>Manual</strong><br>All items(bookmarks, identities etc.) will be created as local items by default, you decide which individual items will be synchronized.</p>
+Disconnected
+Reset Password
+Change Password
+Change Username
+New Recovery Key
+Configure Badges
+Redeem Code
+Logout
+Login
+<p>If you turn this off now, your synchronized items will no longer be available on this computer (but stay stored in your myTeamSpeak account).</p><p><a href="https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/335">Read details</a></p>
+Warning
+Connected as %1
+Login failed, please try again later
+Account verification pending
+Login failed
+Connecting...
+Not Connected
+Email is empty
+Password is empty
+Please confirm your myTeamSpeak account password
+Password invalid. Try again
+Confirm password
+myTeamSpeak Account
+<p>If disabled, you will automatically be logged out of your myTeamSpeak account on exit.</p><p>Please note this will delete all synchronized items on this device when you exit the TeamSpeak client, but they will stay on the myTeamSpeak server.</p>
+<p>Synchronize your bookmarks, identities, hotkeys, addons and more settings over different devices.</p>
+You can login or create an account at any time in Settings
+Cancel
+Forgot Password?
+Invalid email
+Password is too short, requires at least %1 characters
+Password is too long, maximium length is %1 characters
+Passwords do not match
+Username is too short
+Username is too long, maximium length is %1 characters
+Unknown Username error
+Failed to create account
+Failed to login
+Weak password
+Good password
+Strong password
+Login failed, please try again later
+Login failed
+Email already taken
+Username already taken
+Invalid username
+Could not contact server
+Critical management error
+Select recovery key file
+Text files (*.txt)
+Close
+Error
+Finished
+Error getting backup key
+Information
+Do not show again
+&Bookmarks
+&Manage Bookmarks
+Manage bookmarks
+Ctrl+B
+&Add to Bookmarks
+Add Bookmark
+Add Folder
+Duplicate
+Delete
+Connect
+Connect in New Tab
+None
+Default
+Always default
+Confirmation
+<p>You clicked a TeamSpeak 3 server link in your web browser<br>which wants to add itself to your bookmarks as:</p><p>%1<br>%2:%3</p><p>How do you want to proceed?</p>
+<p>A plugin wants to add a bookmark as:</p><p>%1<br>%2:%3</p><p>How do you want to proceed?</p>
+Do nothing
+Bookmark only
+Bookmark and Connect
+<p>Bookmarks have been changed.</p><p>Do you want to <strong>Save</strong>, <strong>Discard</strong> your changes or <strong>Abort</strong> closing this window?</p>
+<p>Bookmarks have been changed but there is an invalid nickname.</p><p>Do you want to <strong>Discard</strong> your change or <strong>Abort</strong> closing this window?</p>
+New Folder
+New Folder %1
+Error
+Exceeding maximum of %1 synchronized bookmarks
+Exceeding maximum of %1 synchronized folders
+New Server
+Move to synchronized
+Move to local
+You are not connected to this server
+&Connect
+Connect in new &tab
+&Edit Bookmark
+%n file(s)
+Information
+Deleted %n file(s) with a total size of %1.
+No files deleted
+Email successfully changed.
+Failed to change email.
+Current password is empty
+New email is empty
+Email already in use
+Password successfully changed.
+Failed to change password.
+Weak password
+Good password
+Strong password
+Forgot Password?
+Current password is empty
+New password is empty
+New password is too short, requires at least %1 characters
+Password is too long, maximium length is %1 characters
+New passwords do not match
+Username successfully changed.
+Failed to change Username.
+New Username is empty
+Username already in use
+Invalid username
+Invalid channel
+Select download folder
+Import
+Export
+Create
+Remove
+Default
+Too short
+Confirmation
+<p>Identities have been changed.</p><p>Do you want to <strong>Save</strong>, <strong>Discard</strong> your changes<br>or <strong>Abort</strong> closing this window?</p>
+Error
+Exceeding maximum of %1 synchronized identities
+New identity
+Information
+One or more identities your about to remove are connected to a server.
+You cannot remove an identity which is connected to a server.
+Do you really want to delete the selected identitie(s)?
+Failed
+Empty identity name
+Move to synchronized
+Move to local
+Import Identity
+Ini files (*.ini);;All files (*.*)
+Failed to import %n identitie(s).
+<p><strong>DO NOT SEND THIS FILE TO ANYBODY!</strong><br>It contains all information needed to take over all your permissions on all TeamSpeak 3 servers.<br>Neither TeamSpeak employees nor support staff will ever ask you for this file.</p><p>Do you want to proceed?</p>
+Warning
+Export Identity
+Ini files (*.ini)
+Unknown (%1)
+Visit Dashboard
+Add %1 account
+The TeamSpeak server could not validate your myTeamSpeak ID. Some myTeamSpeak related services are not available.
+Reconnect
+Code successfully redeemed.
+Failed to redeem code.
+An error occured, try again later
+Invalid code
+You already have this badge
+Recovery key successfully applied
+Failed to restore recovery key
+Fallback successfully applied
+Fallback failed
+Please enter a recovery key
+Warning
+<p>Fallback means that all items on the server will be overwritten by your local items. If you have not synchronized with this client for a while, you may loose some remote items.<br>Only use this as a last resort if you lost your recovery key.</p><p>Do you really want to start the item fallback and overwrite all your remote items?</p>
+Show details
+Hide details
+Login to your myTeamSpeak account
+Link with your %1 account
+Server Integrations
+Remove server integration
+Failed to remove server integration
+Available Integrations
+Install
+This TeamSpeak server is outdated and does not support integrations.
+Please contact your TeamSpeak server Administrator and ask to update this server.
+Account Settings
+Resolve Collisions
+Restore Recovery Key
+Failed to connect to myTeamSpeak account
+Failed to synchronize with myTeamSpeak account
+Bookmark
+Folder
+Identity
+Whisper list
+Hotkey profile
+Addon
+MyTeamSpeak
+Item is too large to sync
+myTeamSpeak account connected
+myTeamSpeak account disconnected
+myTeamSpeak account error
+myTeamSpeak syncing error
+Unable to decrypt data, please apply encryption backup key
+myTeamSpeak account collision detected
+myTeamSpeak account limit exceeded
+Login with myTeamSpeak account
+Account verification pending
+myTeamSpeak notification
+<p>You are talking while your microphone is muted.</p><p>Occasionally one might forget that the microphone has been muted and continue talking, but nothing will be heard by others.</p><p>TeamSpeak can warn you with a "Beep" sound when this happens. This can be useful when running a fullscreen application and the TeamSpeak client is not visible.</p><p>Do you want to disable this feature or keep it enabled? This can be changed anytime in the Applications page in the options.</p>
+This Whisper List is empty  Drag & Drop whisper targets from the right side Use right mouse or delete key to remove an item
+  Hint: Hold down SHIFT if you want to add channels recursively
+No items in this panel...
+No Hotkey Assigned
+Clients & Channels
+Groups
+New
+Remove
+Rename
+Export all
+Import
+View All
+View Contacts
+View Clients
+View Channels
+You are about to delete a list which is not empty Do you really want to delete?
+WhisperList %1
+Import whisperlists
+Whisper to 
+Server Group
+Channel Group
+Channel Commander
+All Clients
+ in 
+All Channels
+Current Channel
+Parent Channel
+All Parent Channels
+Channel Family
+Complete Channel Family
+Subchannels
+Error
+Exceeding maximum of %1 synchronized whisperlists
+Press hotkey combination. (ESC to cancel or to clear the hotkey)
+Assigned profile(s): %1
+Unsaved Changes
+The settings have been modified. Do you want to apply your changes?
+Quick Access
+Contacts
+Clients
+Channels
+Whisper
+Configure Whispering
+default
+Disabled
+Reload
+Settings
+Sync
+Uninstall
+Enabled
+Plugin failed to load:
+minimum
+current
+Plugin reported initialization failure. Please contact the plugin author.
+Version
+Keyword
+Addons
+Collections
+Plugins
+Themes
+Icon Packs
+Sound Packs
+Translations
+All
+Reload All
+Warning
+Failed to reload plugin.
+Failed to initialize plugin.
+Downloading...
+Download failed (%1)
+Download finished.
+Installing...
+Installation failed (%1)
+Installed
+<p style="font-weight:bold;color:red;">ATTENTION</p><p>You are about to open an external link to:<br><strong>%1</strong></p><p>TeamSpeak cannot verify nor be held liable for the content. Be cautious when visiting websites and/or downloading files from unknown sources as they may be harmful to your computer and your security.</p>
+Copy link to clipboard
+An error occurred while trying to install integration
+An error occurred while trying to delete integration
+Sync Collisions
+Your synced data has been edited simultaneously on multiple devices or has been deleted. This has caused a collision between this device and your myTeamSpeak account.
+How to resolve the collision
+Delete Local Item
+The item was deleted in your account. Also delete it on this device.
+Keep Local Item
+The item was deleted in your account. Keep it on this device and upload to your account.
+Add Item
+The item was deleted on this device but still exists in your account. Keep the item in your account and add it to this device.
+Move To Local Item
+The item was deleted in your account but was edited and still exists on this device. Move the item to your Local Items.
+Use Local Item
+The item was edited on your device and in your account. Use the changes from your device and replace the item in your account.
+Use Cloud Item
+The item was edited on your device and in your account. Use the changes from your account and replace the item on this device.
+Always default
+None
+Updated:
+Name:
+Address:
+Port:
+Nickname:
+Phonetic Nickname:
+Server Password:
+Default Channel:
+Default Channel Password:
+Auto Connect:
+Show Serverquery Clients:
+Identity:
+Capture Profile:
+Playback Profile:
+Hotkey Profile:
+Sound Pack:
+Unique Identity:
+Security Level
+Is Default:
+Bookmark
+Invalid
+Folder Name:
+Folder Type:
+Description
+new
+old
+Connect
+Server Nickname or &Address:
+Server &Password:
+Your requested nickname
+Nickname, Hostname or IP of the TeamSpeak 3 server, for example: voice.teamspeak.com:9987
+Server password (optional)
+&Nickname:
+[Too Short]
+One-time privilege key used after connecting. Once used, the privilege key will become invalid.
+Hotkey Profile:
+Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services
+Send myTeamSpeak ID
+&Default Channel:
+&Phonetic Nickname:
+&Capture Profile:
+&Identity:
+Join this channel on login (optional)
+Your nickname written as phonemes (optional)
+Sound Pack:
+Password of default channel (optional)
+One-Time &Privilege Key:
+&Playback Profile:
+Channel &Password:
+&Connect
+In New &Tab
+Cancel
+Create Profile
+Profile Name:
+Create Profile Using:
+Default Settings
+Profile Copy from:
+Download Location
+Download Folder:
+Always save to this folder
+Ask for save folder on every download
+Change
+Interface
+Show file transfers window when a download starts
+Close file transfers window when all downloads are finished
+Display tray icon balloon message when file transfer finishes
+Upload Bandwidth
+Do not limit
+Limit to
+KiB/s
+Download Bandwidth
+Simultaneous Uploads
+Simultaneous Downloads
+Style
+Select style of TeamSpeak
+System default
+Theme
+Select stylesheet from "styles" directory
+Icon Pack
+Visit TeamSpeak Addons webpage
+Transparency
+Transparency of main window
+Channel Tree
+Expand the complete channel tree when logging in.
+Expand all channels on login
+Expand channels up to this level when logging in. 0 means expand everything.
+Expand channels up to this level:
+Only expand your own channel when logging in.
+Expand own channel on login
+Sort clients below channels
+Display country flag on clients
+Display Overwolf icons on clients
+Show channel commander as lamp
+Show away message beside nickname
+Show tooltip info on hover
+Tray Icon
+Hide tray icon
+Hide TeamSpeak to tray icon when minimized
+Minimize to tray
+Hide TeamSpeak to tray icon when closed
+Close to tray
+Animated GIF support
+Enable Animated Avatars
+Enable Animated Images
+Channel Password
+Enter Password for Channel:
+Profile Details
+Playback Mode:
+Playback Device:
+Play a sound to test your playback settings
+Mono Sound Expansion
+Mono to stereo
+Mono to center speaker (if available)
+Mono to surround (if available)
+Options
+Always set clients 3D positions when available
+Own client plays mic clicks
+Other clients play mic clicks
+Passwords
+<html><head/><body><p style='white-space:pre'>Save channel passwords to your computer.<BR/>This might pose a security risk if anyone can access the passwords file.</p></body></html>
+Save channel passwords
+Clear Channel Passwords
+Use a master password
+Change Master Password
+Cleanup
+Clear cache when client closes
+Clear Cache on exit
+Clear collected URLs when client closes
+Clear URLs on exit
+Clear Cache
+Identities
+Manage user identities
+Identity Manager
+3D Sound
+Select Client
+x: 0
+y: 0
+z: 0
+Add Channel Commander
+Add Server Group
+Add Channel Group
+Arrange Clients
+Center Selected
+Center All
+All Around Me
+Radius
+Angle
+Test Mode
+Add Test User
+Rotate Radius
+Rotate Around Oneself
+Rotate Around Me
+Rotate Around Center
+Selected only
+All
+Clockwise
+Counterclockwise
+Start Rotation
+Stop Rotation
+Toggle borders
+Play test sound
+Enable 3D sound
+Disband overlapping text

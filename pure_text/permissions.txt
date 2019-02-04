@@ -1,0 +1,498 @@
+ServerQuery: Retrieve Help Texts
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>help</b>".</p>Provides information about ServerQuery commands. Using without parameters, "<b>help</b>" lists and briefly describes every command.<p style='white-space:pre'>For detailed informations, type "<b>help</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Retrieve Version Information
+Allows using the ServerQuery command "<b>version</b>".<br><br>Provides the servers version information including platform and build number. <p style='white-space:pre'>For detailed informations, type "<b>help version</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Retrieve Host- and Instance Info
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>hostinfo</b>" and "<b>instanceinfo</b>".</p> "<b>hostinfo</b>" provides detailed connection information about the server instance including uptime, number of virtual servers online, traffic information, etc.<br><br> "<b>instanceinfo</b>" provides detailed configuration information about the server instance including database revision number, file transfer port, default group IDs, etc. <p style='white-space:pre'>For detailed informations, type "<b>help hostinfo</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Retrieve Virtual Serverlist
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>serverlist</b>".</p>Provides a list of virtual servers including their ID, status, number of clients online, etc. <p style='white-space:pre'>For detailed informations, type "<b>help serverlist</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Retrieve Server IP Addresses
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>bindinglist</b>".</p>Provides a list of IP addresses used by the server instance on multi-homed machines. <p style='white-space:pre'>For detailed informations, type "<b>help bindinglist</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Retrieve List of Permissions
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>permissionlist</b>".</p>Provides a list of permissions available on the server instance including ID, name and description. <p style='white-space:pre'>For detailed informations, type "<b>help permissionlist</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Find assigned Permissions
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>permfind</b>".</p>Provides detailed information about all assignments of the permission which can be specified by <i>permid</i> or <i>permsid</i>. <p style='white-space:pre'>For detailed informations, type "<b>help permfind</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Create Virtual Server
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>servercreate</b>".</p>Creates a new virtual server using the given properties. Beside an ID and a port, there is also a privilege key returned, which can be used to gain administrative access. <p style='white-space:pre'>For detailed informations, type "<b>help servercreate</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Delete existing Virtual Server
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>serverdelete</b>".</p>Deletes the virtual server specified with <i>sid</i>. Please note that only stopped virtual servers can be deleted. <p style='white-space:pre'>For detailed informations, type "<b>help serverdelete</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Start Virtual Servers
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>serverstart</b>".</p>Starts all virtual servers in the server instance. <p style='white-space:pre'>For detailed informations, type "<b>help serverstart</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Stop Virtual Servers
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>serverstop</b>".</p>Stops all virtual servers in the server instance. <p style='white-space:pre'>For detailed informations, type "<b>help serverstop</b>" into the ServerQuery or read the ServerQuery manual.</p>
+Modify Virtual Server Machine ID
+Allows modifying the machine identifier of the selected virtual server. The machine ID is used to identify the server instance a virtual server is associated with.
+ServerQuery: Edit virtual server template
+Allows modifying the template from which new virtualservers are created.
+ServerQuery: Login via ServerQuery
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>login</b>".</p>To authenticate against the server instance via ServerQuery by given name and password. <p style='white-space:pre'>For detailed informations, type "<b>help login</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Send Text Messages to Everyone
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>gm</b>".</p> Sends a text message to all clients on all running virtual servers. <p style='white-space:pre'>For detailed informations, type "<b>help gm</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: View Server Instance Logs
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>logview</b>".</p>Depending on the assigned permissions, it retrieves a specified number of entries from the server instance log and/or thr virtual servers log. <p style='white-space:pre'>For detailed informations, type "<b>help logview</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Write to Server Instance Logs
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>logadd</b>".</p>Depending on the assigned permissions, the custom entry is written into the server instance log and/or the virtual servers log. <p style='white-space:pre'>For detailed informations, type "<b>help logadd</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Stop Server Instance
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>serverprocessstop</b>".</p>Stops the entire server instance by shutting down the process. <p style='white-space:pre'>For detailed informations, type "<b>help serverprocessstop</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Modify Server Instance Settings
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>instanceedit<b>".</p>Changes the server instance configuration using the given properties. <p style='white-space:pre'>For detailed informations, type "<b>help instanceedit</b>" into the ServerQuery or read the ServerQuery manual.</p>
+Modify ServerQuery groups
+Allows to modify permissions of a ServerQuery group.
+Modify Template groups
+Allows to modify permissions of a template group.
+ServerQuery: Select Virtual Server
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>use</b>".</p>Selects a virtual server via ServerQuery by its given parameter <i>sid</i> or <i>port</i>. <p style='white-space:pre'>For detailed informations, type "<b>help use</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: View Virtual Server Info
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>serverinfo</b>".</p>Retrieves detailed information about the selected virtual server inluding unique ID, number of clients online, configuration, etc. <p style='white-space:pre'>For detailed informations, type "<b>help serverinfo</b>" into the ServerQuery or read the ServerQuery manual.</p>
+View Virtual Server Connection Info
+Allows viewing the connection information of the virtual server.
+ServerQuery: View List of existing Channels
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>channellist</b>".</p>Retrieves a list of channels on the virtual server including their ID, order name, etc. <p style='white-space:pre'>For detailed informations, type "<b>help channellist</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Search for Channels
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>channelfind</b>".</p>Search for channels on the virtual server matching a given pattern. <p style='white-space:pre'>For detailed informations, type "<b>help channelfind</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: View List of Clients online
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>clientlist</b>".</p>Retrieves a list of connected clients on the virtual server including their ID, nickname, status flags, etc. <p style='white-space:pre'>For detailed informations, type "<b>help clientlist</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Search for Clients online
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>clientfind</b>".</p>Retrieves a list of clients matching a given name pattern. <p style='white-space:pre'>For detailed informations, type "<b>help clientfind</b>" into the ServerQuery or read the ServerQuery manual.</p>
+View List of known Client Identities from Database
+Retrieves a list of client identities known by the virtual server including their database ID, last nickname, etc.
+Search for known Client Identities in Database
+Retrieves a list of client database IDs known by the virtual server, matching a given pattern.
+ServerQuery: View Client Database Information
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>clientdbinfo</b>".</p>Retrieves detailed database information about a client including unique ID, creation date, etc. <p style='white-space:pre'>For detailed informations, type "<b>help clientdbinfo</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Search for Permission Assignments
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>permfind</b>".</p>Retrieves detailed informations about all local assignments of the permission specified by<i>permid</i> or <i>permsid</i>. <p style='white-space:pre'>For detailed informations, type "<b>help permfind</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Search for Custom Client Properties
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>customsearch</b>".</p>Searches for custom client properties specified by <i>ident</i> and <i>value</i>. <p style='white-space:pre'>For detailed informations, type "<b>help customsearch</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Start this Virtual Server
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>serverstart</b>".</p>Starts the virtual server specified with <i>sid</i>. <p style='white-space:pre'>For detailed informations, type "<b>help serverstart</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Stop this Virtual Server
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>serverstop</b>".</p>Stops the virtual server specified with <i>sid</i>. <p style='white-space:pre'>For detailed informations, type "<b>help serverstop</b>" into the ServerQuery or read the ServerQuery manual.</p>
+View List of available Privilege Keys
+Allows accessing the list of unused privilege keys on the virtual server.
+Create new Privilege Key
+Allows creating new privilege key which can be used to gain access to server or channel groups.
+Use Privilege Keys to gain permissions
+Allows using a privilege key to gain access to server or channel groups.
+Delete Privilege Key
+Allows deleting unused privilege keys.
+ServerQuery: View Virtual Server Logs
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>logview</b>".</p>Retrieves a specified number of entries from the virtual servers log. <p style='white-space:pre'>For detailed informations, type "<b>help logview</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Write to Virtual Server Log
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>logadd</b>".</p>The custom entry is written into the virtual servers log. <p style='white-space:pre'>For detailed informations, type "<b>help logadd</b>" into the ServerQuery or read the ServerQuery manual.</p>
+Ignore Virtual Server Password
+Allows the client to ignore the serverpassword on connect.
+ServerQuery: Register for Event Notifications
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>servernotifyregister</b>".</p>Registers for a type of events on a virtual server to receive notification messages in the ServerQuery client. <p style='white-space:pre'>For detailed informations, type "<b>help servernotifyregister</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Unregister from Event Notifications
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>servernotifyunregister</b>".</p>Unregisters from notification events previously registered, so notification messages were no longer reveived. <p style='white-space:pre'>For detailed informations, type "<b>help servernotifyunregister</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Back Up Server Settings
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>serversnapshotcreate</b>".</p>Creates a snapshot of the selected virtual server containing all settings, groups, channels and known client identities. <p style='white-space:pre'>For detailed informations, type "<b>help serversnapshotcreate</b>" into the ServerQuery or read the ServerQuery manual.</p>
+ServerQuery: Restore Server Settings
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>serversnapshotdeploy</b>".</p>Restores the selected virtual servers configuration using the data from a previously created server snapshot. <p style='white-space:pre'>For detailed informations, type "<b>help serversnapshotdeploy</b>" into the ServerQuery or read the ServerQuery manual.</p> 
+ServerQuery: Reset Virtual Server Permission Settings
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>permreset</b>".</p> Resets the default permission settings on the selected virtual server and creates a new privilege key, which can immediately be used to gain administrative access. <p style='white-space:pre'>For detailed informations, type "<b>help permreset</b>" into the ServerQuery or read the ServerQuery manual.</p>
+Modify Virtual Server Name
+Allows modifying the name of the virtual server which every client shows in its server tab (if not disabled) and server chat tab.
+Modify Virtual Server Welcome Message
+Allows modifying the welcome message of the virtual server, which will be send to the client on every successful login.
+Modify Virtual Server Max Clients
+Allows modifying the maximum slots, that can be used by clients to connect to the server.
+Modify Virtual Server Reserved Slots
+Allows modifying the reserved slots of the virtual server, which can be used by clients to connect to the server, even when the maximum slots of the server has been reached.
+Modify Virtual Server Password
+Allows modifying the password of the virtual server, which the client is asked for connect to the server.
+Modify Virtual Server Default Server Group
+Allows modifying the default server group of the virtual server, which every client will automatically be assigned to, if he is in no other server group.
+Modify Virtual Server Default Channel Group
+Allows modifying the default channel group of the virtual server, which every client will automatically be assigned to, if he is in no other channel group.
+Modify Virtual Server Channel Admin Group
+Allows modifying the default channel admin group of the virtual server. In every created channel, the default channel admin group will be assigned to its creator.
+Modify Virtual Server Force Silence Limit
+Allows modifying the amount of clients in a channel before the virtual server forces silence in the channel.
+Modify Virtual Server Complaint Settings
+Allows modifying the complaint settings of the virtual server like the amount of complaints before triggering an automatic ban, its duration and the time, when the ban will automatically be removed.
+Modify Virtual Server Anti-Flood Settings
+Allows modifying the anti-flood settings of the virtual server: Every user action will increase a counter ("points") by a predefined number. The setting "Reduced points per tick" defines the number of points reduced from that counter every time period ("tick"). If the number of points surpasses the value for "Points needed to block commands", every user action will be blocked until the points have been reduced again over time. If the number surpasses the value for "Points needed to block IP", the users IP will automatically be banned from the server.
+Modify Virtual Server File-Transfer Settings
+Allows modifying the file transfer settings of the virtual server like the bandwidth limit for up- and downloads in Byte/s.
+Modify Virtual Server File-Transfer Quotas
+Allows modifying the file-transfer quotas or the data transfer volume limit of the virtual server..
+Modify Virtual Server Host Message
+Allows modifying the host message and the host message display mode of the virtual server, which can be shown to clients on connect.
+Modify Virtual Server Host Banner
+Allows modifying the host banner of the virtual server like the interval for reloading the banner, the image source URL and the URL which will be opened on click.
+Modify Virtual Server Host Button
+Allows modifying the host button of the virtual server like the tooltip, the image source URL and the URL which will be opened on click.
+Modify Virtual Server Port
+Allows modifying the port of the virtual server for incoming UDP-connections.
+Modify Virtual Server Autostart Behaviour
+Allows modifying the autostart behaviour of the virtual server to automatically start with the server instance or not.
+Modify Virtual Server Security Level
+Allows modifying the minimum needed client security level to connect to the virtual server. The security level determines how long connecting users will have to improve their identity before considered valid to connect to this server.
+Modify Virtual Server Priority Speaker Dimm Modificator
+Allows modifying the priority speaker dimm modificator of the virtual server, at what the client volume is automatically lowered, while a priority speaker is talking.
+Modify Virtual Server Log Settings
+Allows modifying the log settings of the virtual server to specify, which loggings are enabled.
+Modify Virtual Server Min Client Version
+Allows modifying the minimum client version of the virtual server, which at least is required to connect.
+Modify Virtual Server Icon ID
+Allows modifying the icon ID of the virtual server.
+Modify Virtual Server Announcement on Weblist
+Allows modifying the virtual server to be announced in the global web server list.
+Modify Virtual Server Voice Encryption
+Allows modifying the virtual server setting wheter voice encryption is per channel configurable, always enabled or always disabled.
+Manage temporary server passwords
+Allows to create and manage temporary server passwords.
+Manage own temporary server passwords
+Allows to create and manage own temporary server passwords.
+Channel Min Depth
+This value defines at which depth a channel can be created or moved from a user or a group. The channel can still be modified but not arranged to a higher level. A value of <b>-1</b> means that there is no minimum depth.
+Channel Max Depth
+This value defines up to which depth a subchannel can be created or moved from a user or a group. The channel can still be edited but not arranged to a lower level. A value of <b>-1</b> means that there is no limit.
+Stop Channel Group Inheritance
+If this permission is set to a channel, it will not inherit the channel group membership of its parent channel.
+Channel Permission Modify Power
+This value defines the channel permission modify power. When trying to add or change a channel permission, this value is compared to the grant or modify permission of the target permission. If this value is equal or higher than required, the operation will succeed.
+Needed Channel Permission Modify Power
+This value defines the permission modify power needed to modify a channel permission.
+ServerQuery: View Channel Info
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>channelinfo</b>".</p>Retrieves detailed configuration information about a channel including ID, topic, description, etc. <p style='white-space:pre'>For detailed informations, type "<b>help channelinfo</b>" into the ServerQuery or read the ServerQuery manual.</p> 
+Create Sub-Channels
+This permission allows to create sub-channel inside of another channel.
+Create Permanent Channels
+Allows the creation of permanent channels, which will remain on the server, even after a restart.
+Create Semi-Permanent Channels
+Allows the creation of semi-permanent channels, which will remain on the server until next restart.
+Create Temporary Channels
+Allows the creation of temporary channels, which will remain on the server as long there is at least one client in the channel.
+Create Private Channels
+Allows the creation of private channels.
+Create Channels with Topic
+Allows the creation of channels with topic.
+Create Channels with Description
+Allows the creation of channels with description.
+Create Channels with Password
+Allows the creation of channels with password which is required to enter.
+Create Channels with Speex Narrowband Codec
+Allows the creation of channels using the <b>Speex Narrowband</b> codec.
+Create Channels with Speex Wideband Codec
+Allows the creation of channels using the <b>Speex Wideband</b> codec.
+Create Channels with Speex Ultra-Wideband Codec
+Allows the creation of channels using the <b>Speex Ultra-Wideband</b> codec.
+Create Channels with CELT Mono Codec
+Allows the creation of channels using the <b>CELT Mono</b> codec.
+Create Channels with Opus Voice Codec
+Allows the creation of channels using the <b>Opus Voice</b> codec.
+Create Channels with Opus Music Codec
+Allows the creation of channels using the <b>Opus Music</b> codec.
+Create Channels with Max Codec Quality
+This value defines a maximum codec quality which can be used while creating or modifying channels.
+Create Channel with Minimum Latency Factor
+This value defines the minimum latency factor which can be used while creating or modifying channels.
+Create Channels with Max Clients
+Allows the creation of channels using an individual max clients setting.
+Create Channels with Max Family Clients
+Allows the creation of channels using an individual max family clients setting.
+Create Channels with Sort Order
+Allows the creation of channels using a custom sort order on the server.
+Create Default Channel
+Allows the creation of default channels. Every connecting client tells the server in which channel he wants to join automatically. If this parameter is undefined or the channel does not exist on the server, he will join the servers predefined default channel. Every server can only have one default channel.
+Create Channels with Needed Talk Power
+Allows the creation of moderated channels with needed talk power.
+Create Channels with Password only
+The user can only create channels with a password.
+Edit default of temporary channel delete delay
+Allows editing the server default value for the delete delay of temporary channels. 
+Temporary channel delete delay
+Delay in seconds after a temporary channel is deleted after the last user has left the channel.
+Move Channels
+Allows moving channels.
+Change Channel Type to Default
+Allows changing the default channel of the virtual server.
+Change Channel Type to Permanent
+Allows changing the type of a channel to permanent.
+Change Channel Type to Semi-Permanent
+Allows changing the type of a channel to semi-permanent.
+Change Channel Type to Temporary
+Allows changing the type of a channel to temporary.
+Modify Channel Name
+Allows modifying the name of a channel.
+Modify Channel Topic
+Allows modifying the topic of a channel.
+Modify Channel Description
+Allows modifying the description of a channel.
+Modify Channel Password
+Allows modifying the password of a channel.
+Modify Channel Codec
+Allows modifying the codec of a channel.
+Modify Channel Codec Quality
+Allows modifying the codec quality of a channel.
+Modify Channel Latency Factor
+Allows modifying the latency factor of a channel.
+Modify Channel Max Clients
+Allows modifying the individual max clients limit of a channel.
+Modify Channel Max Family Clients
+Allows modifying the individual max family clients limit of a channel.
+Modify Channel Sort Order
+Allows modifying the sort order of a channel on the server.
+Modify Channel Needed Talk Power
+Allows modifying the needed talk power of a channel. Talk power is needed, to talk in moderated channels.
+Channel Modify Power
+This value defines the channel modify power of a user or group. The value is compared to the Channel Needed Modify Power to decide if the user is allowed to modify a channel.
+Needed Channel Modify Power
+This value defines the channel modify power needed to modify a channel.
+Modify Channel Voice Encryption
+Allows modifying the voice encryption setting of a channel. The voice encryption can be enabled or disabled.
+Modify temporary channel delete delay
+Allows editing the delay in seconds after a temporary channel is deleted after the last user has left the channel.
+Delete Permanent Channels
+Allows deleting of permanent channels.
+Delete Semi-Permanent Channels
+Allows deleting of semi-permanent channels.
+Delete Temporary Channels
+Allows deleting of temporary channels.
+Force Deletion of Channels
+Allows deleting a channel even when there are clients in it.
+Channel Delete Power
+This value defines the power to delete a channel. Needs to be equal or greater than the i_channel_needed_delete_power of the target channel.
+Needed Channel Delete Power
+This value defines the channel delete power needed to delete a channel.
+Join Permanent Channels
+Allows joining permanent channels.
+Join Semi-Permanent Channels
+Allows joining semi-permanent channels.
+Join Temporary Channels
+Allows joining temporary channels.
+Ignore Channel Passwords
+Allows ignoring passwords when joining channels.
+Ignore Channel Max Clients
+Allows ignoring the individual max clients limit when joining channels.
+Channel Join Power
+This value defines the power to join a channel. Needs to be equal or greater than the channel needed join power of the target channel.
+Needed Channel Join Power
+This value defines the channel join power needed to join a channel.
+Channel Subscribe Power
+This value defines the channel subscribe power. The value is compared to the Channel Needed Subscribe Power to decide if the user is allowed to subscribe and see clients of a channel without entering.
+Needed Channel Subscribe Power
+This value defines the channel subscribe power needed to subscribe a channel.
+Channel Description View Power
+This value defines the power to view the description of a channel.
+Needed Channel Description View Power
+This value defines the power which is required to view the description of a channel.
+Icon ID
+Set this value to channels, client or group to assign a custom icon.
+Icon Max Filesize (Bytes)
+This value defines a maximum filesize for group icons in bytes.
+Manage Icons
+Alows managing custom icons on the virtual server.
+Group is Permanent
+Allows setting a server- or channel group to be permanent.
+Group Auto Update Type
+This value defines the type of a group used when updating the server. Depending on this value new permissions will automatically be added to a server or channel group after a server update.
+Group Auto Update Max Value
+Defines the maximum value of the Group Auto Update Type permission a user or group can set.
+Group Sort ID
+If set, this value defines the sort order of the groups and its icons in the permission system. If unset or zero, the group ID is taken to determine the sort order.
+Show Group Name in Tree
+Defines how the group name is displayed in the tree.<BR>If zero or unset, no group name is displayed.<BR>If 1, the group is displayed before the client name.<BR>If 2, the group is displayed behind the client name.
+ServerQuery: View List of Server Groups
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>servergrouplist</b>".</p>Retrieves a list of server groups available. Depending on permissions, the list may also contain global ServerQuery- and template groups. <p style='white-space:pre'>For detailed informations, type "<b>help servergrouplist</b>" into the ServerQuery or read the ServerQuery manual.</p>
+View List of Server Group Permissions
+Allows retrieving a list of server group permissions on the virtual server.
+View List of Server Group Members
+Allows retrieving a list of members of a server group on the virtual server.
+ServerQuery: View List of Channel Groups
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>channelgrouplist</b>".</p>Retrieves a list of channel groups available on the virtual server. <p style='white-space:pre'>For detailed informations, type "<b>help channelgrouplist</b>" into the ServerQuery or read the ServerQuery manual.</p>
+View List of Channel Group Permissions
+Allows retrieving a list of channel group permissions on the virtual server.
+View List of Channel Group Members
+Allows retrieving a list of members of a channel group on the virtual server.
+View List of Client Permissions
+Allows retrieving a list of client permissions on the virtual server.
+View List of Channel Permissions
+Allows retrieving a list of channel permissions on the virtual server.
+View List of Channel Client Permissions
+Allows retrieving a list of channel client permissions on the virtual server.
+Create new Server Groups
+Allows creating server groups.
+Create new Channel Groups
+Allows creating channel groups.
+Group Modify Power
+When trying to add or change a server- or channelgroup permission, this value is compared to the group needed modify power of the target group. If this value is equal or higher than required, the operation will succeed.
+Needed Group Modify Power
+This value defines the group modify power needed to modify a server- or channel group.
+Group Member Add Power
+This value defines the group member add power of a user or group. If this value compared to Group Needed Member Add Power is equal or higher than required, the operation will succeed.
+Needed Group Member Add Power
+This value defines the group member add power needed to add additional members to a server or channel group.
+Group Member Remove Power
+This value defines the group member remove power of a user or group. If this value compared to Group Needed Member Remove Power is equal or higher than required, the operation will succeed.
+Needed Group Member Remove Power
+This value defines the group member remove power needed to remove members from a server or channel group.
+Permission Modify Power
+When trying to add or change a permission, this value is compared to the grant or modify permission of the target permission. If this value is equal or higher than required, the operation will succeed.
+Ignore Permission Modify Power
+Allows ignoring the needed permission modify power while modifying permissions.
+Delete existing Server Group
+Allows deleting server groups.
+Delete existing Channel Group
+Allows deleting channel groups.
+Client Permission Modify Power
+When trying to add or change a client permission, this value is compared to the client needed permission modify power of the target client. If this value is equal or higher than required, the operation will succeed.
+Needed Client Permission Modify Power
+This value defines the client needed permission modify power required to modify client or group permissions.
+Max number of additional connections per Identity
+This value defines the max number of additional connections from the same client identity.
+Max Idle time (Seconds)
+This value defines the max amount of time a client can idle before being kicked from server.
+Max Avatar Filesize (Bytes)
+This value defines the maximum filesize for a client avatar in bytes. Note that <b>-1</b> means that there is no limit.
+Max Channel Subscriptions
+This value defines the maximum number of channels a client or group can subscribe to. Please note that <b>-1</b> means that there is no limit.
+Client is Priority Speaker
+This value shows whether or not the client is a priority speaker. All client volumes are automatically lowered by Speaker Dimm Modificator while a priority speaker is talking.
+Skip Channel Group Permissions
+This value defines whether or not permissions related to channels and channel groups can overwrite the permissions of the user or server group.
+Force Push To Talk
+This value defines whether or not the client is forced to use Push-To-Talk.
+Ignore Bans
+Allows ignoring active ban rules.
+Ignore Anti-Flood Measurements
+Allows ignoring the anti-flood measurements of the virtual server.
+Issue Client-side ServerQuery Commands
+Allows executing commands using the built-in ServerQuery client.
+Use Reserved Slots
+Allows using reserved slots of the virtual server. These slots can be used by clients to connect to the server, even when the maximum slots of the server has been reached.
+Use Channel Commander
+Allows becoming a Channel Commander, which will be shown in servertree and can be used as a whisper target.
+Request talk power in moderated channels
+Allows a client to use "Request talk power" in a moderated channel.
+Delete other clients avatar
+Allows deleting the avatar of another client.
+Sticky client
+This client cannot move into other channels.
+Ignore sticky client permission
+If set, the sticky client permission is ignored for this client.
+ServerQuery: View Client Info
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>clientinfo</b>".</p>Retrieves detailed configuration information about a client including unique ID, nickname, client version, etc. <p style='white-space:pre'>For detailed informations, type "<b>help clientinfo</b>" into the ServerQuery or read the ServerQuery manual.</p>
+View Client Permission Overview
+Allows accessing the permission overview for a client.
+View Own Client Permission Overview
+Allows accessing the permission overview for the own client.
+View Client Remote Address
+Allows viewing the IP address of a client in the connection info.
+ServerQuery Client View Power
+This value defines the serverquery_view_power, which allows you to view ServerQuery clients which do not have a higher needed_serverquery_view_power.
+Needed ServerQuery Client View Power
+This value defines the power needed of a user or group to view ServerQuery clients.
+ServerQuery: View Custom Client Properties
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>custominfo</b>" and "<b>customsearch</b>".</p> "<b>custominfo</b>" shows a list of custom properties for the client specified with <i>cldbid</i>. <br><br> "<b>customsearch</b>" searches for custom client properties specified by <i>ident</i> and <i>value</i>. <p style='white-space:pre'>For detailed informations, type "<b>help custominfo</b>" into the ServerQuery or read the ServerQuery manual.</p>
+Client Kick From Server Power
+This value defines the power of a user or group to kick clients from the server.The value is compared to the Client Needed Kick From Server Power to decide if the user is allowed to do a kick.
+Needed Client Kick From Server Power
+This value defines the power needed to kick clients from the server which are members of the group.
+Client Kick from Channel Power
+This value defines the power of a user or group to kick clients from a channel. The value is compared to the Client Needed Kick From Channel Power to decide if the user is allowed to do a kick.
+Needed Client Kick from Channel Power
+This value defines the client kick from channel power needed to kick clients from channel which are members of the group.
+Client Ban From Server Power
+This value defines the client ban power of a user or group. The value is compared to the Client Needed Ban Power to decide if the user is allowed to do a ban.
+Needed Client Ban Power
+This value defines the client ban power needed to ban clients which are members of the group.
+Client Move Power
+This value defines the client move power of a user or group. The value is compared to the Client Needed Move Power to decide if the user is allowed to move a client.
+Needed Client Move Power
+This value defines the client move power needed to move clients which are members of the group.
+Client Complain Power
+This value defines the client complain power of a user or group. The value is compared to the Client Needed Complain Power to decide if the user is allowed to do a complaint.
+Needed Client Complain Power
+This value defines the client complain power needed to complain about clients which are members of the group.
+View List of Client Complaints
+Allows viewing the list of complaints on the virtual server.
+Delete own Complaints
+Allows deleting own complaints out of the Complaints List.
+Delete all Complaints
+Allows deleting all complaints out of the Complaints List.
+View List of Ban Rules
+Allows viewing the list of ban rules on the virtual server.
+Create new Ban Rules
+Allows creating custom ban rules on the virtual server.
+Delete own Ban Rules
+Allows deleting own ban rules.
+Delete all Ban Rules
+Allows deleting all ban rules.
+Max Time for Ban Rules in seconds
+This value defines the max duration in seconds of a ban rule punishment a client or group can set. A value of <b>-1</b> means that there is no limit.
+Private Textmessage Power
+This value defines the private text message power of a user or group. The value is compared to the Client Needed Private Textmessage Power to decide if the user is allowed to send a private textmessage.
+Needed Private Textmessage Power
+This value defines the private text message power needed to message clients which are members of the group.
+Send Text Messages to Server
+Allows sending text messages to all clients on the virtual server.
+Send Text Messages to Channel
+Allows sending text messages to the current channel.
+Send Text Messages to Offline Clients
+Allows sending text messages to offline clients.
+Client Talk Power
+This value defines the client talk power of a user or group. The value is compared to the Client Needed Talk Power to decide if the user is allowed to get talk power.
+Needed Client Talk Power
+This value defines the client talk power needed to be able to speak in a channel.
+Client Poke Power
+This value defines the client poke power of a user or group. The value is compared to the Client Needed Poke Power to decide if the user is allowed to do a poke.
+Needed Client Poke Power
+This value defines the client poke power needed to be able to poke someone.
+Grant Talk Power
+Allows granting talk power to other clients.
+Client Whisper Power
+Defines the Whisper Power of a user or group. When whispering, this permission is compared to the Client Needed Whisper Power to decide if the user is allowed to whisper to the target.
+Needed Client Whisper Power
+Defines the Needed Whisper Power of a user or group. When whispering, the value of Client Whisper Power is compared to this permission to decide if the user is allowed to whisper to the target.
+Modify all Client Descriptions
+Allows changing the description of all clients.
+Modify own Client Description
+Allows changing own client description.
+ServerQuery: Modify Client Settings
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>clientdbedit</b>".</p> Changes a clients settings using given properties. <p style='white-space:pre'>For detailed informations, type "<b>clientdbedit</b>" into the ServerQuery or read the ServerQuery manual.</p>
+Delete Client Database Properties
+Allows deleting the database properties of a client. Please note, that all properties for this client DBID will be deleted out of the database.
+Create a ServerQuery Account
+Allows creating and managing a ServerQuery account.
+Browse files without channel password
+Allows accessing the files of a channel ignoring its password.
+ServerQuery: View List of active File-Transfers
+<p style='white-space:nowrap'>Allows using the ServerQuery command "<b>ftlist</b>".</p>Retrieves a list of running file transfers on the selected virtual server. The output contains the path to which a file is loaded to, the current transfer rate in bytes per second, etc. <p style='white-space:pre'>For detailed informations, type "<b>help ftlist</b>" into the ServerQuery or read the ServerQuery manual.</p>
+File Upload Power
+This value defines the file upload power of a user or group. The value is compared to the Needed File Upload Power to decide if the user is allowed to upload a file.
+Needed File Upload Power
+This value defines the file upload power needed to be able to upload files to a channel.
+File Download Power
+This value defines the file download power of a user or group. The value is compared to the Needed File Download Power to decide if the user is allowed to download a file.
+Needed File Download Power
+This value defines the file download power needed to be able to download files from a channel.
+File Delete Power
+This value defines the file delete power of a user or group. The value is compared to the Needed File Delete Power to decide if the user is allowed to delete a file.
+Needed File Delete Power
+This value defines the file delete power needed to be able to delete files from a channel.
+File Rename Power
+This value defines the file rename power of a user or group. The value is compared to the Needed File Rename Power to decide if the user is allowed to rename a file.
+Needed File Rename Power
+This value defines the file rename power needed to be able to rename files in a channel.
+File Browse Power
+This value defines the file browse power of a user or group. The value is compared to the Needed File Browse Power to decide if the user is allowed to open a filebrowser.
+Needed File Browse Power
+This value defines the file browse power needed to be able to browse files in a channel.
+Directory Create Power
+This value defines the directory create power of a user or group. The value is compared to the Needed Directory Create Power to decide if the user is allowed to create a directory.
+Needed Directory Create Power
+This value defines the directory create power needed to be able to create directories in a channel.
+Download Quota per Client (MByte)
+This value defines the download quota in MByte per month for a client or group. Please note that <b>-1</b> means that there is no limit.
+Upload Quota per Client (MByte)
+This value defines the upload quota in MByte per month for a client or group. Please note that <b>-1</b> means that there is no limit.
+Grant/Modify Permission
+Every permission has an associated grant/modify privilege. These permissions control which permissions a client is allowed to grant or revoke, so they are the key to modifying the permission system and are thus usually reserved to administrators.
+Modify Virtual Server Nicknames
+Allows modifying the nicknames of the virtual server. Nicknames can be registered on the myTeamSpeak webpage. Nicknames can be used to easily connecto to a TeamSpeak server.
+Modify Integrations
+Allows modifying integrations of the virtual server. This includes adding and removing integrations as well as modifying the server group assignments for each tier.

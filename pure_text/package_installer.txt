@@ -1,0 +1,28 @@
+TeamSpeak Add-On
+Name:
+Type:
+Author:
+Version:
+Description:
+Platform:
+This add-on is not available for your platform.
+Install
+Abort
+Error
+Failed to read Add-On info.
+All
+Select TeamSpeak Client installation folder
+Warning
+<p>You are about to install a Plugin for your TeamSpeak Client.</p><p>Plugins should only be installed from trusted sources, as it is possible to inject malicious code into the TeamSpeak client with a plugin.</p><p>Do you trust this Plugin and want to proceed installing?</p>
+No TeamSpeak 3 Client installation directory found.
+Information
+<p>Add-On successfully installed.<br>Do you want to activate this Add-On?</p><p><strong>Please restart your TeamSpeak Client.</strong></p>
+Add-On successfully installed.
+Failed to install Add-On. Do you want to retry as Administrator?
+Failed to install Add-On.
+File not found: %1
+Invalid zip file: %1
+Failed to find temp directory
+Failed to create temp path: %1
+Failed to extract: %1
+Failed to extract Add-On: %1

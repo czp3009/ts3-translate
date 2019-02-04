@@ -1,0 +1,38 @@
+buildscript {
+    ext {
+        kotlin_version = '1.3.20'
+    }
+
+    repositories {
+        gradlePluginPortal()
+    }
+
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+apply plugin: 'kotlin'
+
+group 'com.hiczp'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+//kotlin
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+}
+compileKotlin {
+    kotlinOptions.jvmTarget = JavaVersion.VERSION_1_8
+}
+compileTestKotlin {
+    kotlinOptions.jvmTarget = JavaVersion.VERSION_1_8
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/com.xenomachina/kotlin-argparser
+    implementation group: 'com.xenomachina', name: 'kotlin-argparser', version: '2.0.7'
+}

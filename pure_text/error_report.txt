@@ -1,0 +1,5 @@
+TeamSpeak 3 Error
+Do you want to send the error report?
+The TeamSpeak 3 client has crashed. There is a crash report which will help the developers to fix the problem. Please type a description in the text field to reproduce the issue.
+Thank you for your report!
+An error occured while transmitting the data.

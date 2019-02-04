@@ -1,0 +1,190 @@
+ok
+undefined error
+not implemented
+ok
+ok
+library time limit reached
+command not found
+unable to bind network port
+no network port available
+invalid clientID
+nickname is already in use
+max clients protocol limit reached
+invalid client type
+already subscribed
+not logged in
+could not validate client identity
+invalid loginname or password
+too many clones already connected
+client version outdated, please update
+client is online
+client is flooding
+client is modified
+can not verify client at this moment
+client is not permitted to log in
+client is not subscribed to the channel
+invalid myTeamSpeak ID data
+invalid channelID
+max channels protocol limit reached
+already member of channel
+channel name is already in use
+channel not empty
+can not delete default channel
+default channel requires permanent
+invalid channel flags
+permanent channel can not be child of non permanent channel
+channel maxclient reached
+channel maxfamily reached
+invalid channel order
+channel does not support filetransfers
+invalid channel password
+channel is private channel
+invalid serverID
+server is running
+server is shutting down
+server maxclient reached
+invalid server password
+deployment active
+unable to stop own server in your connection class
+server is virtual
+server wrong machineID
+server is not running
+server is booting up
+server got an invalid status for this operation
+server modal quit
+server version is too old for command
+server is already running under a different serverID
+the time difference between server and client is too large
+server blacklisted
+database error
+database empty result set
+database duplicate entry
+database no modifications
+database invalid constraint
+database reinvoke command
+invalid quote
+invalid parameter count
+invalid parameter
+parameter not found
+convert error
+invalid parameter size
+missing required parameter
+invalid checksum
+Connection lost
+not connected
+no cached connection info
+currently not possible
+failed connection initialization
+could not resolve hostname
+invalid server connection handler ID
+could not initialize Input Manager
+client library not initialized
+server library not initialized
+too many whisper targets
+no whisper targets found
+server uses an unsupported protocol
+no common encryption algorithms
+failed to validate server license
+invalid file name
+invalid file permissions
+file already exists
+file not found
+file input/output error
+invalid file transfer ID
+invalid file path
+no files available
+overwrite excludes resume
+invalid file size
+file already in use
+could not open file transfer connection
+no space left on device (disk full?)
+file exceeds file system's maximum file size
+file transfer connection timeout
+lost file transfer connection
+file exceeds supplied file size
+file transfer complete
+file transfer canceled
+file transfer interrupted
+file transfer server quota exceeded
+file transfer client quota exceeded
+file transfer reset
+file transfer limit reached
+preprocessor disabled
+internal preprocessor
+internal encoder
+internal playback
+no capture device available
+no playback device available
+could not open capture device
+could not open playback device
+ServerConnectionHandler has a device registered
+invalid capture device
+invalid playback device
+invalid wave file
+wave file type not supported
+could not open wave file
+internal capture
+device still in use
+device already registerred
+device not registered/known
+unsupported frequency
+invalid channel count
+read error in wave
+sound need more data
+sound device was busy
+there is no sound data for this period
+Channelmask set bits count (speakers) is not the same as channel (count)
+invalid group ID
+duplicate entry
+invalid permission ID
+empty result set
+access to default group is forbidden
+invalid size
+invalid value
+group is not empty
+insufficient client permissions
+insufficient group modify power
+insufficient permission modify power
+template group is currently used
+permission error
+permission used by integration
+virtualserver limit reached
+max slot limit reached
+license file not found
+license date not ok
+unable to connect to accounting server
+unknown accounting error
+accounting server error
+instance limit reached
+instance check error
+license file invalid
+virtualserver is running elsewhere
+virtualserver running in same instance already
+virtualserver already started
+virtualserver not started
+virtualserver started too many times in a certain time period
+invalid message id
+invalid ban id
+connection failed, you are banned
+rename failed, new name is banned
+flood ban
+unable to initialize tts
+invalid privilege key
+random number generator failed
+certificate signature is invalid
+invalid license key
+unable to create a valid certificate key
+out of memory
+certificate already exists
+read beyond end of certificate
+write beyond end of certificate
+invalid version in certifcate
+invalid certificate
+invalid date in certificate
+not authorized to create certificate
+invalid certificate type
+certificate address does not match
+certificate is not valid yet
+certificate is expired
+certificate index out of range
+certifcate invalid size

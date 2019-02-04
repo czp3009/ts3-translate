@@ -1,0 +1,28 @@
+TeamSpeak 3 Client Update
+Details
+Stable
+Beta
+Alpha
+Update to TeamSpeak %1
+You are currently on <strong>%1 channel</strong>.
+Step one: Updating updater
+Step two: Updating TeamSpeak client
+Confirm reboot
+<p>A computer restart is required to proceed with the client update. If you do not reboot now, the TeamSpeak update will be cancelled.</p><p>Do you want to reboot now?</p>
+Question
+<p>Update in progress.</p><p>Are you sure you want to abort?</p>
+Waiting until TeamSpeak 3 Client has been closed.
+Warning
+The TeamSpeak 3 Client should be closed before starting the update.
+Information
+<p>This is the last TeamSpeak version available for Windows Vista.</p><p>To upgrade TeamSpeak and take advantage of the latest features and bug fixes, please update your operating system to Windows 7 or newer.</p>
+%1 KB / %2 KB
+%1 KB/s
+Update cancelled
+Update
+Update cancelled. Push "Details" to check reasons.
+Error
+Failed to query latest client version from update server.
+Update server returned no version
+Update server returned invalid version nr (%1)
+Invalid version nr (%1)

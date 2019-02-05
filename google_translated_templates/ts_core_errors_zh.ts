@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>ts_core_error_522</source>
-        <translation type="unfinished">客户端版本已过时，请更新</translation>
+        <translation type="unfinished">客户端版本已过时, 请更新</translation>
     </message>
     <message>
         <source>ts_core_error_523</source>
@@ -399,7 +399,7 @@
     </message>
     <message>
         <source>ts_core_error_2060</source>
-        <translation type="unfinished">设备上没有剩余空间（磁盘已满？）</translation>
+        <translation type="unfinished">设备上没有剩余空间(磁盘已满?)</translation>
     </message>
     <message>
         <source>ts_core_error_2061</source>
@@ -543,7 +543,7 @@
     </message>
     <message>
         <source>ts_core_error_2328</source>
-        <translation type="unfinished">通道掩码设置位数（扬声器）与通道（计数）不同</translation>
+        <translation type="unfinished">通道掩码设置位数(扬声器)与通道(计数)不同</translation>
     </message>
     <message>
         <source>ts_core_error_2560</source>
@@ -671,11 +671,11 @@
     </message>
     <message>
         <source>ts_core_error_3329</source>
-        <translation type="unfinished">连接失败，你被禁止了</translation>
+        <translation type="unfinished">连接失败, 你被禁止了</translation>
     </message>
     <message>
         <source>ts_core_error_3330</source>
-        <translation type="unfinished">重命名失败，新名称被禁止</translation>
+        <translation type="unfinished">重命名失败, 新名称被禁止</translation>
     </message>
     <message>
         <source>ts_core_error_3331</source>

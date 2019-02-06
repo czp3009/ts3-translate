@@ -665,7 +665,9 @@ Inserting a modified copy instead.</source>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the selected ban(s)?</source>
-        <translation type="unfinished">你真的想删除选定的禁令吗?</translation>
+        <translation type="unfinished">
+            <numerusform>你真的想删除选定的禁令吗?</numerusform>
+        </translation>
     </message>
     <message>
         <source>You have insufficient permissions to view the ban list.</source>
@@ -1339,7 +1341,9 @@ servers will not be cleared.</source>
     </message>
     <message numerus="yes">
         <source>Delete client(s)</source>
-        <translation type="unfinished">删除客户</translation>
+        <translation type="unfinished">
+            <numerusform>删除客户</numerusform>
+        </translation>
     </message>
     <message>
         <source>Confirmation</source>
@@ -1478,7 +1482,9 @@ Press Enter to apply filter.</source>
     </message>
     <message numerus="yes">
         <source>has %n complaint(s)</source>
-        <translation type="unfinished">有%n个投诉</translation>
+        <translation type="unfinished">
+            <numerusform>有%n个投诉</numerusform>
+        </translation>
     </message>
     <message>
         <source>Ban Client</source>
@@ -1494,7 +1500,9 @@ Press Enter to apply filter.</source>
     </message>
     <message numerus="yes">
         <source>Do you really want to remove the selected complain(s)?</source>
-        <translation type="unfinished">你真的想删除所选择的投诉吗?</translation>
+        <translation type="unfinished">
+            <numerusform>你真的想删除所选择的投诉吗?</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -1960,7 +1968,9 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message numerus="yes">
         <source>&lt;p&gt;A parent channel has a delete delay lower than this channel (%n second(s)).&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;父频道的删除延迟低于此频道(%n秒).&lt;/p&gt;</translation>
+        <translation type="unfinished">
+            <numerusform>&lt;p&gt;父频道的删除延迟低于此频道(%n秒).&lt;/p&gt;</numerusform>
+        </translation>
     </message>
     <message>
         <source>&lt;p&gt;Setting a subchannel with a higher delete delay than a parent channel makes no sense.&lt;/p&gt;&lt;p&gt;Should TeamSpeak automatically adjust the delete delay of this channel to be the same as the lowest parent delay? &lt;b&gt;Yes is recommended.&lt;/b&gt;&lt;/p&gt;</source>
@@ -2631,11 +2641,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message numerus="yes">
         <source>%n directory(s)</source>
-        <translation type="unfinished">%n目录</translation>
+        <translation type="unfinished">
+            <numerusform>%n目录</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation type="unfinished">%n个档案</translation>
+        <translation type="unfinished">
+            <numerusform>%n个档案</numerusform>
+        </translation>
     </message>
     <message>
         <source> and </source>
@@ -2643,12 +2657,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message numerus="yes">
         <source>Do you really want to delete this file(s)?</source>
-        <translation type="unfinished">你真的想删除这个文件吗?</translation>
+        <translation type="unfinished">
+            <numerusform>你真的想删除这个文件吗?</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the folder(s)?
 All files inside the deleted folder(s) will be lost.</source>
-        <translation type="unfinished">你真的想删除文件夹吗?已删除文件夹中的所有文件都将丢失.</translation>
+        <translation type="unfinished">
+            <numerusform>你真的想删除文件夹吗?已删除文件夹中的所有文件都将丢失.</numerusform>
+        </translation>
     </message>
     <message>
         <source>Question</source>
@@ -2807,7 +2825,9 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message numerus="yes">
         <source>Found %n filetransfer(s) in progess which will be aborted if you press Ok.</source>
-        <translation type="unfinished">在progess中找到%n个文件传输, 如果按"确定"将中止该文件传输.</translation>
+        <translation type="unfinished">
+            <numerusform>在progess中找到%n个文件传输, 如果按"确定"将中止该文件传输.</numerusform>
+        </translation>
     </message>
     <message>
         <source>Do you want to proceed?</source>
@@ -2864,7 +2884,9 @@ selected files from your computer?</source>
     </message>
     <message numerus="yes">
         <source>Upload limited to %n slot(s)</source>
-        <translation type="unfinished">上传限制为%n个插槽</translation>
+        <translation type="unfinished">
+            <numerusform>上传限制为%n个插槽</numerusform>
+        </translation>
     </message>
     <message>
         <source>and unlimited speed.</source>
@@ -2876,7 +2898,9 @@ selected files from your computer?</source>
     </message>
     <message numerus="yes">
         <source>Download limited to %n slot(s)</source>
-        <translation type="unfinished">下载仅限%n个插槽</translation>
+        <translation type="unfinished">
+            <numerusform>下载仅限%n个插槽</numerusform>
+        </translation>
     </message>
     <message>
         <source>/s</source>
@@ -5496,7 +5520,9 @@ Current: %1</source>
     </message>
     <message numerus="yes">
         <source>There are %n filetransfer(s) in progress.</source>
-        <translation type="unfinished">正在进行%n个文件传输.</translation>
+        <translation type="unfinished">
+            <numerusform>正在进行%n个文件传输.</numerusform>
+        </translation>
     </message>
     <message>
         <source>If you quit now, any transfer will be aborted.</source>
@@ -6299,7 +6325,9 @@ Current: %1</source>
     </message>
     <message numerus="yes">
         <source>Delete messages(s)</source>
-        <translation type="unfinished">删除邮件</translation>
+        <translation type="unfinished">
+            <numerusform>删除邮件</numerusform>
+        </translation>
     </message>
     <message>
         <source>Mark as Read</source>
@@ -7250,7 +7278,9 @@ Would you like to create an invitation instead?</source>
     </message>
     <message numerus="yes">
         <source>%n unread offline message(s)</source>
-        <translation type="unfinished">%n未读脱机消息</translation>
+        <translation type="unfinished">
+            <numerusform>%n未读脱机消息</numerusform>
+        </translation>
     </message>
     <message>
         <source>Host message</source>
@@ -7258,23 +7288,33 @@ Would you like to create an invitation instead?</source>
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
-        <translation type="unfinished">%n年</translation>
+        <translation type="unfinished">
+            <numerusform>%n年</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s)</source>
-        <translation type="unfinished">%n天</translation>
+        <translation type="unfinished">
+            <numerusform>%n天</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
-        <translation type="unfinished">%n小时</translation>
+        <translation type="unfinished">
+            <numerusform>%n小时</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s)</source>
-        <translation type="unfinished">%n分钟</translation>
+        <translation type="unfinished">
+            <numerusform>%n分钟</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>
-        <translation type="unfinished">%n秒</translation>
+        <translation type="unfinished">
+            <numerusform>%n秒</numerusform>
+        </translation>
     </message>
     <message>
         <source>Warning</source>
@@ -9563,11 +9603,15 @@ Would you like to continue?</source>
     </message>
     <message numerus="yes">
         <source>Found %n unfinished filetransfer(s)</source>
-        <translation type="unfinished">找到%n个未完成的文件传输</translation>
+        <translation type="unfinished">
+            <numerusform>找到%n个未完成的文件传输</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>Do you want to resume your unfinished transfer(s) now?</source>
-        <translation type="unfinished">你想现在恢复未完成的转移吗?</translation>
+        <translation type="unfinished">
+            <numerusform>你想现在恢复未完成的转移吗?</numerusform>
+        </translation>
     </message>
     <message>
         <source>If you click "No", you will be asked again after the next login.</source>
@@ -9696,11 +9740,15 @@ Do you want to apply your changes?</source>
     </message>
     <message numerus="yes">
         <source>%n new error message(s)</source>
-        <translation type="unfinished">%n新错误消息</translation>
+        <translation type="unfinished">
+            <numerusform>%n新错误消息</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n new warning message(s)</source>
-        <translation type="unfinished">%n新警告消息</translation>
+        <translation type="unfinished">
+            <numerusform>%n新警告消息</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -9738,7 +9786,9 @@ Do you want to apply your changes?</source>
     </message>
     <message numerus="yes">
         <source>&lt;p style='white-space:nowrap'&gt;You have &lt;strong&gt;%n&lt;/strong&gt; unread offlinemessage(s)&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p style='white-space:nowrap'&gt;您有&lt;strong&gt;%n&lt;/strong&gt;未读脱机消息&lt;/p&gt;</translation>
+        <translation type="unfinished">
+            <numerusform>&lt;p style='white-space:nowrap'&gt;您有&lt;strong&gt;%n&lt;/strong&gt;未读脱机消息&lt;/p&gt;</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -9749,7 +9799,9 @@ Do you want to apply your changes?</source>
     </message>
     <message numerus="yes">
         <source>%n download(s)</source>
-        <translation type="unfinished">%n下载</translation>
+        <translation type="unfinished">
+            <numerusform>%n下载</numerusform>
+        </translation>
     </message>
     <message>
         <source>%1 down - %2</source>
@@ -9757,7 +9809,9 @@ Do you want to apply your changes?</source>
     </message>
     <message numerus="yes">
         <source>%n upload(s)</source>
-        <translation type="unfinished">%n上传</translation>
+        <translation type="unfinished">
+            <numerusform>%n上传</numerusform>
+        </translation>
     </message>
     <message>
         <source>%1 up - %2</source>
@@ -9765,7 +9819,9 @@ Do you want to apply your changes?</source>
     </message>
     <message numerus="yes">
         <source>%n queued</source>
-        <translation type="unfinished">%n排队</translation>
+        <translation type="unfinished">
+            <numerusform>%n排队</numerusform>
+        </translation>
     </message>
     <message>
         <source>File transfer error</source>
@@ -12425,7 +12481,9 @@ Useful for servers with a lot of channels and clients.</source>
     <name>com::teamspeak::ui::CacheClearer</name>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation type="unfinished">%n个档案</translation>
+        <translation type="unfinished">
+            <numerusform>%n个档案</numerusform>
+        </translation>
     </message>
     <message>
         <source>Information</source>
@@ -12433,7 +12491,9 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message numerus="yes">
         <source>Deleted %n file(s) with a total size of %1.</source>
-        <translation type="unfinished">已删除总大小为%1的%n个文件.</translation>
+        <translation type="unfinished">
+            <numerusform>已删除总大小为%1的%n个文件.</numerusform>
+        </translation>
     </message>
     <message>
         <source>No files deleted</source>
@@ -12607,7 +12667,9 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the selected identitie(s)?</source>
-        <translation type="unfinished">你真的想删除所选的身份吗?</translation>
+        <translation type="unfinished">
+            <numerusform>你真的想删除所选的身份吗?</numerusform>
+        </translation>
     </message>
     <message>
         <source>Failed</source>
@@ -12635,7 +12697,9 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message numerus="yes">
         <source>Failed to import %n identitie(s).</source>
-        <translation type="unfinished">无法导入%n个身份证明.</translation>
+        <translation type="unfinished">
+            <numerusform>无法导入%n个身份证明.</numerusform>
+        </translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;DO NOT SEND THIS FILE TO ANYBODY!&lt;/strong&gt;&lt;br&gt;It contains all information needed to take over all your permissions on all TeamSpeak 3 servers.&lt;br&gt;Neither TeamSpeak employees nor support staff will ever ask you for this file.&lt;/p&gt;&lt;p&gt;Do you want to proceed?&lt;/p&gt;</source>
@@ -13034,7 +13098,9 @@ Do you really want to delete?</source>
     </message>
     <message numerus="yes">
         <source>Assigned profile(s): %1</source>
-        <translation type="unfinished">已分配的个人资料:%1</translation>
+        <translation type="unfinished">
+            <numerusform>已分配的个人资料:%1</numerusform>
+        </translation>
     </message>
     <message>
         <source>Unsaved Changes</source>

@@ -20,9 +20,16 @@ fun generateGoogleTranslatedTemplates() {
             }.apply {
                 getElementsByTagName("context").forEach { context ->
                     (context as Element).getElementsByTagName("message").forEach { message ->
-                        (message as Element).getElementsByTagName("translation")
-                            .item(0)
-                            .textContent = scanner.nextLine()
+                        @Suppress("SpellCheckingInspection")
+                        //是否复数
+                        val numerus = message.attributes.getNamedItem("numerus")?.nodeValue == "yes"
+                        val translation = (message as Element).getElementsByTagName("translation").item(0)
+                        if (!numerus) {
+                            translation
+                        } else {
+                            @Suppress("SpellCheckingInspection")
+                            (translation as Element).getElementsByTagName("numerusform").item(0)
+                        }.textContent = scanner.nextLine()
                     }
                 }
             }

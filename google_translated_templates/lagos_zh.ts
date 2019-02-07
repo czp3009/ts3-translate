@@ -759,7 +759,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
-        <translation type="unfinished">和播放资料:(&amp;P)</translation>
+        <translation type="unfinished">播放资料:(&amp;P)</translation>
     </message>
     <message>
         <source>Playback profile used for this server</source>
@@ -799,7 +799,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation type="unfinished">和捕获配置文件:(&amp;C)</translation>
+        <translation type="unfinished">捕获配置文件:(&amp;C)</translation>
     </message>
     <message>
         <source>Capture profile used for this server</source>
@@ -1378,11 +1378,11 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&amp;Errors</source>
-        <translation type="unfinished">和错误(&amp;E)</translation>
+        <translation type="unfinished">错误(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Warnings</source>
-        <translation type="unfinished">和警告(&amp;W)</translation>
+        <translation type="unfinished">警告(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;Info</source>
@@ -1390,7 +1390,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&amp;Debug</source>
-        <translation type="unfinished">和调试(&amp;D)</translation>
+        <translation type="unfinished">调试(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Highlighting</source>
@@ -1752,7 +1752,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Default Channel</source>
-        <translation type="unfinished">和默认频道(&amp;D)</translation>
+        <translation type="unfinished">默认频道(&amp;D)</translation>
     </message>
     <message>
         <source>Sort This Channel After:</source>
@@ -1768,7 +1768,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Needed Talk Power:</source>
-        <translation type="unfinished">和需要的谈话能力:(&amp;N)</translation>
+        <translation type="unfinished">需要的谈话能力:(&amp;N)</translation>
     </message>
     <message>
         <source>Talk power required to speak in this channel.</source>
@@ -1880,7 +1880,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Phonetic Name:</source>
-        <translation type="unfinished">和语音名称:(&amp;P)</translation>
+        <translation type="unfinished">语音名称:(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Delete delay:</source>
@@ -1928,7 +1928,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Family Max Users</source>
-        <translation type="unfinished">和家庭最大用户(&amp;F)</translation>
+        <translation type="unfinished">家庭最大用户(&amp;F)</translation>
     </message>
     <message>
         <source>Inherit the client limit by parent channel.</source>
@@ -2890,11 +2890,11 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>and unlimited speed.</source>
-        <translation type="unfinished">和无限的速度.</translation>
+        <translation type="unfinished">无限的速度.</translation>
     </message>
     <message>
         <source>and max speed of %1 KiB/s.</source>
-        <translation type="unfinished">和最大速度%1 KiB / s.</translation>
+        <translation type="unfinished">最大速度%1 KiB / s.</translation>
     </message>
     <message numerus="yes">
         <source>Download limited to %n slot(s)</source>
@@ -4326,7 +4326,7 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>&amp;Identity Name:</source>
-        <translation type="unfinished">和身份名称:(&amp;I)</translation>
+        <translation type="unfinished">身份名称:(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Nickname:</source>
@@ -4402,7 +4402,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>&amp;Requested Security Level:</source>
-        <translation type="unfinished">和要求的安全级别:(&amp;R)</translation>
+        <translation type="unfinished">要求的安全级别:(&amp;R)</translation>
     </message>
     <message>
         <source>Elapsed Time:</source>
@@ -4972,7 +4972,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Server List</source>
-        <translation type="unfinished">和服务器列表(&amp;S)</translation>
+        <translation type="unfinished">服务器列表(&amp;S)</translation>
     </message>
     <message>
         <source>Show list of known TeamSpeak 3 servers</source>
@@ -5036,7 +5036,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Online on all servers</source>
-        <translation type="unfinished">和所有服务器上的在线(&amp;O)</translation>
+        <translation type="unfinished">所有服务器上的在线(&amp;O)</translation>
     </message>
     <message>
         <source>Set your status to online on the all server</source>
@@ -5164,7 +5164,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Server Log</source>
-        <translation type="unfinished">和服务器日志(&amp;S)</translation>
+        <translation type="unfinished">服务器日志(&amp;S)</translation>
     </message>
     <message>
         <source>Display server log messages</source>
@@ -5176,7 +5176,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Server Groups</source>
-        <translation type="unfinished">和服务器组(&amp;S)</translation>
+        <translation type="unfinished">服务器组(&amp;S)</translation>
     </message>
     <message>
         <source>Manage server group permissions</source>
@@ -5188,7 +5188,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Client Permissions</source>
-        <translation type="unfinished">和客户端权限(&amp;C)</translation>
+        <translation type="unfinished">客户端权限(&amp;C)</translation>
     </message>
     <message>
         <source>Manage client permissions</source>
@@ -5200,7 +5200,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Channel Permissions</source>
-        <translation type="unfinished">和渠道权限(&amp;C)</translation>
+        <translation type="unfinished">渠道权限(&amp;C)</translation>
     </message>
     <message>
         <source>Manage channel permissions</source>
@@ -5212,7 +5212,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Channel Groups</source>
-        <translation type="unfinished">和渠道组(&amp;C)</translation>
+        <translation type="unfinished">渠道组(&amp;C)</translation>
     </message>
     <message>
         <source>Manage channel group permissions</source>
@@ -5224,7 +5224,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Channel Client Permissions</source>
-        <translation type="unfinished">和渠道客户端权限(&amp;C)</translation>
+        <translation type="unfinished">渠道客户端权限(&amp;C)</translation>
     </message>
     <message>
         <source>Manage channel client permissions</source>
@@ -5380,7 +5380,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Privilege Keys</source>
-        <translation type="unfinished">和特权密钥(&amp;P)</translation>
+        <translation type="unfinished">特权密钥(&amp;P)</translation>
     </message>
     <message>
         <source>Manage privilege keys on this server</source>
@@ -5388,7 +5388,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Connection Info</source>
-        <translation type="unfinished">和连接信息(&amp;C)</translation>
+        <translation type="unfinished">连接信息(&amp;C)</translation>
     </message>
     <message>
         <source>Retrieve connection information</source>
@@ -5412,7 +5412,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Whisper Lists</source>
-        <translation type="unfinished">和耳语列表(&amp;W)</translation>
+        <translation type="unfinished">耳语列表(&amp;W)</translation>
     </message>
     <message>
         <source>Manage whisper lists</source>
@@ -5576,7 +5576,7 @@ Current: %1</source>
     <name>MessagesSetup</name>
     <message>
         <source>&amp;Disconnect Message:</source>
-        <translation type="unfinished">和断开连接消息:(&amp;D)</translation>
+        <translation type="unfinished">断开连接消息:(&amp;D)</translation>
     </message>
     <message>
         <source>Customize message sent when disconnecting</source>
@@ -5695,7 +5695,7 @@ Current: %1</source>
     <name>NotificationsSetup</name>
     <message>
         <source>&amp;Sound Pack:</source>
-        <translation type="unfinished">和声音包:(&amp;S)</translation>
+        <translation type="unfinished">声音包:(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;While Output Muted:</source>
@@ -7834,11 +7834,11 @@ Are you sure you want to proceed?</source>
     </message>
     <message>
         <source>&amp;Errors</source>
-        <translation type="unfinished">和错误(&amp;E)</translation>
+        <translation type="unfinished">错误(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Warnings</source>
-        <translation type="unfinished">和警告(&amp;W)</translation>
+        <translation type="unfinished">警告(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;Info</source>
@@ -8892,7 +8892,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Client Connection Info</source>
-        <translation type="unfinished">和客户连接信息(&amp;C)</translation>
+        <translation type="unfinished">客户连接信息(&amp;C)</translation>
     </message>
     <message>
         <source>Retrieve client connection information</source>
@@ -8900,7 +8900,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Server Connection Info</source>
-        <translation type="unfinished">和服务器连接信息(&amp;S)</translation>
+        <translation type="unfinished">服务器连接信息(&amp;S)</translation>
     </message>
     <message>
         <source>Retrieve server connection infomation</source>
@@ -8980,7 +8980,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Edit Channel</source>
-        <translation type="unfinished">和编辑频道(&amp;E)</translation>
+        <translation type="unfinished">编辑频道(&amp;E)</translation>
     </message>
     <message>
         <source>Change the properties of this channel</source>
@@ -8996,7 +8996,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Open Text Chat</source>
-        <translation type="unfinished">和打开文字聊天(&amp;O)</translation>
+        <translation type="unfinished">打开文字聊天(&amp;O)</translation>
     </message>
     <message>
         <source>Open a new chat tab for this client</source>
@@ -9020,7 +9020,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Poke Client</source>
-        <translation type="unfinished">和Poke客户端(&amp;P)</translation>
+        <translation type="unfinished">Poke客户端(&amp;P)</translation>
     </message>
     <message>
         <source>Get the attention of the selected client</source>
@@ -9244,7 +9244,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Change Description</source>
-        <translation type="unfinished">和更改说明(&amp;C)</translation>
+        <translation type="unfinished">更改说明(&amp;C)</translation>
     </message>
     <message>
         <source>Edit this clients description</source>
@@ -9252,7 +9252,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Priority Speaker</source>
-        <translation type="unfinished">和优先发言人(&amp;P)</translation>
+        <translation type="unfinished">优先发言人(&amp;P)</translation>
     </message>
     <message>
         <source>Assign or remove Priority Speaker permissions to this client in this channel</source>
@@ -9348,7 +9348,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Channel Commander</source>
-        <translation type="unfinished">和频道指挥官(&amp;C)</translation>
+        <translation type="unfinished">频道指挥官(&amp;C)</translation>
     </message>
     <message>
         <source>Assign or remove Channel Commander status to this client</source>
@@ -11960,7 +11960,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>&amp;Echo reduction</source>
-        <translation type="unfinished">和回声减少(&amp;E)</translation>
+        <translation type="unfinished">回声减少(&amp;E)</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Echo Cancellation&lt;/strong&gt; tries to subtract any audio that was played back from the captured signal, reducing the echoing effect at the cost of additional CPU cycles.&lt;/p&gt;</source>
@@ -12343,7 +12343,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>&amp;Manage Bookmarks</source>
-        <translation type="unfinished">和管理书签(&amp;M)</translation>
+        <translation type="unfinished">管理书签(&amp;M)</translation>
     </message>
     <message>
         <source>Manage bookmarks</source>
@@ -12477,7 +12477,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>&amp;Edit Bookmark</source>
-        <translation type="unfinished">和编辑书签(&amp;E)</translation>
+        <translation type="unfinished">编辑书签(&amp;E)</translation>
     </message>
 </context>
 <context>
@@ -13537,7 +13537,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation type="unfinished">和捕获配置文件:(&amp;C)</translation>
+        <translation type="unfinished">捕获配置文件:(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Identity:</source>
@@ -13565,7 +13565,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
-        <translation type="unfinished">和播放资料:(&amp;P)</translation>
+        <translation type="unfinished">播放资料:(&amp;P)</translation>
     </message>
     <message>
         <source>Channel &amp;Password:</source>

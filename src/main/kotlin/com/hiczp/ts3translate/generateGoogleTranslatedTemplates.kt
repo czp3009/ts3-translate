@@ -32,6 +32,8 @@ fun generateGoogleTranslatedTemplates() {
                             processAcceleratorKey(source, it)
                         }.let {
                             processLeadingSpace(source, it)
+                        }.let {
+                            processTrailingSpace(source, it)
                         }
 
                         if (!numerus) {
@@ -60,8 +62,7 @@ fun generateGoogleTranslatedTemplates() {
 
 //处理原文中的快捷键
 private fun processAcceleratorKey(source: String, translatedText: String) =
-//TODO &符号可能不在第一位
-    if (source.startsWith("&")) {
+    if (source.startsWith("&")) {   //TODO &符号可能不在第一位
         val acceleratorKey = source[1]
         if (translatedText.startsWith("&")) {
             translatedText.substring(1)
@@ -84,8 +85,21 @@ private fun processLeadingSpace(source: String, translatedText: String): String 
         }
     }
     return if (index != -1) {
-        translatedText
+        source.substring(0, index + 1) + translatedText
     } else {
         translatedText
     }
+}
+
+//处理末尾的空格
+private fun processTrailingSpace(source: String, translatedText: String): String {
+    var count = 0
+    for (i in source.length - 1 downTo 0) {
+        if (source[i] == ' ') {
+            count++
+        } else {
+            break
+        }
+    }
+    return translatedText + " ".repeat(count)
 }

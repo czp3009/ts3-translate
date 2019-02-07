@@ -2653,7 +2653,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source> and </source>
-        <translation type="unfinished">和</translation>
+        <translation type="unfinished"> 和 </translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete this file(s)?</source>
@@ -2860,7 +2860,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="unfinished">速度:</translation>
+        <translation type="unfinished">速度: </translation>
     </message>
     <message>
         <source>Download Limit - Slots:</source>
@@ -3944,7 +3944,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>on </source>
-        <translation type="unfinished">上</translation>
+        <translation type="unfinished">上 </translation>
     </message>
     <message>
         <source>Hide Advanced Actions</source>
@@ -4206,7 +4206,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source> on %1</source>
-        <translation type="unfinished">在%1上</translation>
+        <translation type="unfinished"> 在%1上</translation>
     </message>
     <message>
         <source>(Down)</source>
@@ -5553,7 +5553,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Playback Profile: &lt;strong&gt;%1&lt;/strong&gt; </source>
-        <translation type="unfinished">播放资料:&lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation type="unfinished">播放资料:&lt;strong&gt;%1&lt;/strong&gt; </translation>
     </message>
     <message>
         <source>&lt;strong&gt;&lt;br&gt;Hint: &lt;/strong&gt;</source>
@@ -7263,7 +7263,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source> profile </source>
-        <translation type="unfinished">轮廓</translation>
+        <translation type="unfinished"> 轮廓 </translation>
     </message>
 </context>
 <context>
@@ -8135,7 +8135,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source> secs</source>
-        <translation type="unfinished">秒</translation>
+        <translation type="unfinished"> 秒</translation>
     </message>
     <message>
         <source>Show advanced options</source>
@@ -9795,7 +9795,7 @@ Do you want to apply your changes?</source>
     <name>StatusTransferDisplay</name>
     <message>
         <source>%1% of </source>
-        <translation type="unfinished">%1%</translation>
+        <translation type="unfinished">%1% </translation>
     </message>
     <message numerus="yes">
         <source>%n download(s)</source>
@@ -9832,19 +9832,19 @@ Do you want to apply your changes?</source>
     <name>StyleSheetHelper</name>
     <message>
         <source>SuperClass: </source>
-        <translation type="unfinished">超类:</translation>
+        <translation type="unfinished">超类: </translation>
     </message>
     <message>
         <source>ParentClass: </source>
-        <translation type="unfinished">父类:</translation>
+        <translation type="unfinished">父类: </translation>
     </message>
     <message>
         <source>ClassName: </source>
-        <translation type="unfinished">班级名称:</translation>
+        <translation type="unfinished">班级名称: </translation>
     </message>
     <message>
         <source>ObjectName: </source>
-        <translation type="unfinished">对象名:</translation>
+        <translation type="unfinished">对象名: </translation>
     </message>
 </context>
 <context>
@@ -10217,11 +10217,11 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>upload to: </source>
-        <translation type="unfinished">上传到:</translation>
+        <translation type="unfinished">上传到: </translation>
     </message>
     <message>
         <source>download from: </source>
-        <translation type="unfinished">下载地址:</translation>
+        <translation type="unfinished">下载地址: </translation>
     </message>
     <message>
         <source>Queue %1</source>
@@ -10308,7 +10308,8 @@ Do you want to apply your changes?</source>
     <message>
         <source>
 (Double click to revoke)</source>
-        <translation type="unfinished">(双击撤消)</translation>
+        <translation type="unfinished">
+(双击撤消)</translation>
     </message>
     <message>
         <source>Insufficient Talk power</source>
@@ -10325,12 +10326,14 @@ Do you want to apply your changes?</source>
     <message>
         <source>
 (Double click to cancel request)</source>
-        <translation type="unfinished">(双击取消请求)</translation>
+        <translation type="unfinished">
+(双击取消请求)</translation>
     </message>
     <message>
         <source>
 (Double click to grant request)</source>
-        <translation type="unfinished">(双击以授予请求)</translation>
+        <translation type="unfinished">
+(双击以授予请求)</translation>
     </message>
     <message>
         <source>Using Overwolf</source>
@@ -10741,7 +10744,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Tooltip: </source>
-        <translation type="unfinished">工具提示:</translation>
+        <translation type="unfinished">工具提示: </translation>
     </message>
     <message>
         <source>Icon URL:</source>
@@ -10861,7 +10864,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source> sec</source>
-        <translation type="unfinished">秒</translation>
+        <translation type="unfinished"> 秒</translation>
     </message>
     <message>
         <source>Priority speaker dim modificator:</source>
@@ -11179,7 +11182,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source> seconds</source>
-        <translation type="unfinished">秒</translation>
+        <translation type="unfinished"> 秒</translation>
     </message>
     <message>
         <source>Keep-Alive Timeout:</source>
@@ -11753,7 +11756,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source> mins</source>
-        <translation type="unfinished">分钟</translation>
+        <translation type="unfinished"> 分钟</translation>
     </message>
     <message>
         <source>Whisper Lists</source>
@@ -11993,7 +11996,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source> dB</source>
-        <translation type="unfinished">D b</translation>
+        <translation type="unfinished"> D b</translation>
     </message>
     <message>
         <source>Delay when release the Push-To-Talk key until Push-To-Talk is actually disabled</source>
@@ -12005,7 +12008,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source> secs</source>
-        <translation type="unfinished">秒</translation>
+        <translation type="unfinished"> 秒</translation>
     </message>
     <message>
         <source>Enabled Voice Activation Detection even when Push-To-Talk is used.</source>
@@ -12032,7 +12035,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source> lines</source>
-        <translation type="unfinished">线</translation>
+        <translation type="unfinished"> 线</translation>
     </message>
     <message>
         <source>Change the default font used in chat tabs</source>
@@ -12072,7 +12075,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>last </source>
-        <translation type="unfinished">持续</translation>
+        <translation type="unfinished">持续 </translation>
     </message>
     <message>
         <source>Reload private chat logs</source>
@@ -12964,7 +12967,9 @@ Use right mouse or delete key to remove an item</source>
         <source>
 
 Hint: Hold down SHIFT if you want to add channels recursively</source>
-        <translation type="unfinished">提示:如果要递归添加通道, 请按住SHIFT键</translation>
+        <translation type="unfinished">
+
+提示:如果要递归添加通道, 请按住SHIFT键</translation>
     </message>
     <message>
         <source>No items in this panel...</source>
@@ -13033,7 +13038,7 @@ Do you really want to delete?</source>
     </message>
     <message>
         <source>Whisper to </source>
-        <translation type="unfinished">悄悄话</translation>
+        <translation type="unfinished">悄悄话 </translation>
     </message>
     <message>
         <source>Server Group</source>
@@ -13053,7 +13058,7 @@ Do you really want to delete?</source>
     </message>
     <message>
         <source> in </source>
-        <translation type="unfinished">在</translation>
+        <translation type="unfinished"> 在 </translation>
     </message>
     <message>
         <source>All Channels</source>

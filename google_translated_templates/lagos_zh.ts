@@ -727,7 +727,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Identity:</source>
-        <translation type="unfinished">与身份:(&amp;I)</translation>
+        <translation type="unfinished">身份:(&amp;I)</translation>
     </message>
     <message>
         <source>Identity to use when connecting to the server</source>
@@ -1804,7 +1804,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Codec:</source>
-        <translation type="unfinished">与编解码器:(&amp;C)</translation>
+        <translation type="unfinished">编解码器:(&amp;C)</translation>
     </message>
     <message>
         <source>Quality:</source>
@@ -5064,7 +5064,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished">与选项(&amp;O)</translation>
+        <translation type="unfinished">选项(&amp;O)</translation>
     </message>
     <message>
         <source>Open options dialog</source>
@@ -5472,7 +5472,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Connections</source>
-        <translation type="unfinished">与连接(&amp;C)</translation>
+        <translation type="unfinished">连接(&amp;C)</translation>
     </message>
     <message>
         <source>S&amp;elf</source>
@@ -5484,7 +5484,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished">与工具(&amp;T)</translation>
+        <translation type="unfinished">工具(&amp;T)</translation>
     </message>
     <message>
         <source>Teleph&amp;ony</source>
@@ -13541,7 +13541,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>&amp;Identity:</source>
-        <translation type="unfinished">与身份:(&amp;I)</translation>
+        <translation type="unfinished">身份:(&amp;I)</translation>
     </message>
     <message>
         <source>Join this channel on login (optional)</source>

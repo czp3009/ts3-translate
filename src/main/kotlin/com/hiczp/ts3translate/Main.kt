@@ -21,12 +21,15 @@ val allFiles = normalFiles + separatedFiles
 
 //模板文件后缀
 const val templateFileSuffix = ".ts"
+//编译后的模板文件后缀
+const val compiledTemplateFileSuffix = ".qm"
 
 val translateTemplatesDirectory = File("translate_templates")
 val originalTemplatesDirectory = File("original_templates")
 val pureTextDirectory = File("pure_text")
 val translatedPureTextDirectory = File("translated_pure_text")
 val googleTranslatedTemplatesDirectory = File("google_translated_templates")
+val distDirectory = File("dist")
 
 lateinit var commandLineArguments: CommandLineArguments
 
@@ -51,6 +54,10 @@ fun main(args: Array<String>) {
     //将文本充填回 xml
     generateGoogleTranslatedTemplates()
     println("Translated files generated in ${googleTranslatedTemplatesDirectory.absolutePath}")
+
+    //编译 ts 文件
+    compileTsFiles()
+    println("Files compiled: ${distDirectory.absolutePath}")
 
     println("DONE!")
 }

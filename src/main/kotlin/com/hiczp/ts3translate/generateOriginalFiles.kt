@@ -1,7 +1,5 @@
 package com.hiczp.ts3translate
 
-import java.nio.file.Files
-import java.nio.file.StandardCopyOption
 import kotlin.system.exitProcess
 
 fun generateOriginalTemplates() {
@@ -23,23 +21,20 @@ fun generateOriginalTemplates() {
 
     //拷贝文件
     allFiles.forEach {
-        val source = versionedTranslateTemplatesDirectory.resolve("${it}_xx$templateFileSuffix")
-        val target = originalTemplatesDirectory.resolve("${it}_${commandLineArguments.language}$templateFileSuffix")
-        Files.copy(
-            source.toPath(),
-            target.toPath(),
-            StandardCopyOption.REPLACE_EXISTING
-        )
+        versionedTranslateTemplatesDirectory.resolve("${it}_xx$templateFileSuffix")
+            .copyTo(
+                originalTemplatesDirectory.resolve("${it}_${commandLineArguments.language}$templateFileSuffix"),
+                true
+            )
     }
 
     //额外拷贝
-    separatedFiles.forEach {
-        val fileName = "$it$templateFileSuffix"
-
-        Files.copy(
-            versionedTranslateTemplatesDirectory.resolve(fileName).toPath(),
-            originalTemplatesDirectory.resolve(fileName).toPath(),
-            StandardCopyOption.REPLACE_EXISTING
+    separatedFiles.map {
+        "$it$templateFileSuffix"
+    }.forEach {
+        versionedTranslateTemplatesDirectory.resolve(it).copyTo(
+            originalTemplatesDirectory.resolve(it),
+            true
         )
     }
 }
